@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="margin" attr.type="string" for="node" id="margin"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<key attr.name="fontcolor" attr.type="string" for="node" id="fontcolor"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">159.61563</data>
+<data key="y">121.07202</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-380.50577</data>
+<data key="y">269.20325</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-459.6455</data>
+<data key="y">156.66779</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">488.7891</data>
+<data key="y">-456.43127</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-393.5193</data>
+<data key="y">-422.7704</data>
+</node>
+<node id="Use Case">
+<data key="label">Use Case</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-40.29578</data>
+<data key="y">-29.756166</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">405.40128</data>
+<data key="y">-560.1338</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">279.82864</data>
+<data key="y">398.73297</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-280.8597</data>
+<data key="y">343.2879</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-288.20474</data>
+<data key="y">-348.16873</data>
+</node>
+<node id="Artifact Start 1 1 3 1 1 12 0 Use Case |">
+<data key="label">Start Use Case</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-360.51328</data>
+<data key="y">-115.54761</data>
+</node>
+<node id="Artifact Section 1 1 3 1 1 12 1 Brief Description |">
+<data key="label">1. Brief Description</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-318.91193</data>
+<data key="y">118.54663</data>
+</node>
+<node id="Artifact SectionWT 1 1 3 1 1 12 2 Actor Brief Descriptions | Templates/UseCase/ActorBriefDescriptions.txt">
+<data key="label">2. Actor Brief Descriptions</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/ActorBriefDescriptions.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-106.73444</data>
+<data key="y">193.06897</data>
+</node>
+<node id="Artifact Section 1 1 3 1 1 12 3 Preconditions |">
+<data key="label">3. Preconditions</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">417.88358</data>
+<data key="y">-50.323486</data>
+</node>
+<node id="Artifact SectionWT 1 1 3 1 1 12 4 Basic Flow of Events | Templates/UseCase/BasicFlowOfEvents.txt">
+<data key="label">4. Basic Flow of Events</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/BasicFlowOfEvents.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">241.73666</data>
+<data key="y">17.625364</data>
+</node>
+<node id="Artifact SectionWT 1 1 3 1 1 12 5 Alternative Flows | Templates/UseCase/AlternativeFlows.txt">
+<data key="label">5. Alternative Flows</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/AlternativeFlows.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">405.70224</data>
+<data key="y">400.50336</data>
+</node>
+<node id="Artifact SectionWT 1 1 3 1 1 12 6 Subflows | Templates/UseCase/Subflows.txt">
+<data key="label">6. Subflows </data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/Subflows.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-49.021275</data>
+<data key="y">-13.986147</data>
+</node>
+<node id="Artifact SectionWT 1 1 3 1 1 12 7 Key Scenarios | Templates/UseCase/KeyScenarios.txt">
+<data key="label">7. Key Scenarios</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/KeyScenarios.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">138.1199</data>
+<data key="y">155.1112</data>
+</node>
+<node id="Artifact Section 1 1 3 1 1 12 8 Post-conditions |">
+<data key="label">8. Post-conditions</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">284.21646</data>
+<data key="y">344.49908</data>
+</node>
+<node id="Artifact Section 1 1 3 1 1 12 9 Special Requirements |">
+<data key="label">9. Special Requirements</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-345.48193</data>
+<data key="y">-211.88281</data>
+</node>
+<node id="Artifact End 1 1 3 1 1 12 0 Use Case |">
+<data key="label">End Use Case</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">202.40024</data>
+<data key="y">-309.3181</data>
+</node>
+<edge id="191" source="Artifact Start 1 1 3 1 1 12 0 Use Case |" target="Artifact Section 1 1 3 1 1 12 1 Brief Description |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="192" source="Artifact Section 1 1 3 1 1 12 1 Brief Description |" target="Artifact SectionWT 1 1 3 1 1 12 2 Actor Brief Descriptions | Templates/UseCase/ActorBriefDescriptions.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="193" source="Artifact SectionWT 1 1 3 1 1 12 2 Actor Brief Descriptions | Templates/UseCase/ActorBriefDescriptions.txt" target="Artifact Section 1 1 3 1 1 12 3 Preconditions |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="194" source="Artifact Section 1 1 3 1 1 12 3 Preconditions |" target="Artifact SectionWT 1 1 3 1 1 12 4 Basic Flow of Events | Templates/UseCase/BasicFlowOfEvents.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="195" source="Artifact SectionWT 1 1 3 1 1 12 4 Basic Flow of Events | Templates/UseCase/BasicFlowOfEvents.txt" target="Artifact SectionWT 1 1 3 1 1 12 5 Alternative Flows | Templates/UseCase/AlternativeFlows.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="196" source="Artifact SectionWT 1 1 3 1 1 12 5 Alternative Flows | Templates/UseCase/AlternativeFlows.txt" target="Artifact SectionWT 1 1 3 1 1 12 6 Subflows | Templates/UseCase/Subflows.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="197" source="Artifact SectionWT 1 1 3 1 1 12 6 Subflows | Templates/UseCase/Subflows.txt" target="Artifact SectionWT 1 1 3 1 1 12 7 Key Scenarios | Templates/UseCase/KeyScenarios.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="198" source="Artifact SectionWT 1 1 3 1 1 12 7 Key Scenarios | Templates/UseCase/KeyScenarios.txt" target="Artifact Section 1 1 3 1 1 12 8 Post-conditions |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="199" source="Artifact Section 1 1 3 1 1 12 8 Post-conditions |" target="Artifact Section 1 1 3 1 1 12 9 Special Requirements |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="200" source="Artifact Section 1 1 3 1 1 12 9 Special Requirements |" target="Artifact End 1 1 3 1 1 12 0 Use Case |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

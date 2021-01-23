@@ -1,0 +1,3 @@
+[Target iteration, Assigned To, Effort estimate left (hours) and Hours worked columns are typically used when a Work Item is assigned to an iteration.The other columns are typically used regardless of whether the work item is assigned to an iteration or not. ]
+
+Name/Description | Priority | Size estimate (Points) | State | Target iteration	| Assigned To |	Effort estimate left (hours) | Hours worked	| Reference material

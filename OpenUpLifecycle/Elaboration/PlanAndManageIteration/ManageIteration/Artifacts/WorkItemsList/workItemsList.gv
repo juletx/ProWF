@@ -1,0 +1,30 @@
+digraph workItemsList {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Work Items List",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Artifact Start 1 2 2 2 5 9 0 Work Items List |" -> "Artifact SectionWT 1 2 2 2 5 9 0 Fill table | Templates/WorkItemsList/FillTable.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 2 5 9 0 Fill table | Templates/WorkItemsList/FillTable.txt" -> "Artifact End 1 2 2 2 5 9 0 Work Items List |" [style=solid];
+
+    
+	"Artifact Start 1 2 2 2 5 9 0 Work Items List |" [shape=ellipse,label="Start Work Items List",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 2 2 2 5 9 0 Work Items List |" [shape=ellipse,label="End Work Items List",fillcolor =royalblue3,style=filled];
+	
+	"Artifact SectionWT 1 2 2 2 5 9 0 Fill table | Templates/WorkItemsList/FillTable.txt" [
+    		shape = component,
+    		label = "Fill table",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/FillTable.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+	   		 
+  		];	
+				
+}

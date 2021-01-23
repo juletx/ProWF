@@ -1,0 +1,26 @@
+digraph findAndOutlineRequirements	 {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Find and Outline Requirements",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Task Start 1 1 3 1 1 0 0 Find and Outline Requirements |" -> "Task Artifact 1 1 3 1 1 9 0 Work Items List |";
+	"Task Artifact 1 1 3 1 1 9 0 Work Items List |" -> "Task Artifact 1 1 3 1 1 11 0 Supporting Requirements |";
+	"Task Artifact 1 1 3 1 1 11 0 Supporting Requirements |" -> "Task Artifact 1 1 3 1 1 10 0 Glossary |";
+	"Task Artifact 1 1 3 1 1 10 0 Glossary |" -> "Task Artifact 1 1 3 1 1 12 0 Use Case |";
+	"Task Artifact 1 1 3 1 1 12 0 Use Case |" -> "Task Artifact 1 1 3 1 1 13 0 Use-Case Model |";
+	"Task Artifact 1 1 3 1 1 13 0 Use-Case Model |" -> "Task End 1 1 3 1 1 0 0 Find and Outline Requirements |";
+	
+	"Task Start 1 1 3 1 1 0 0 Find and Outline Requirements |" [shape=ellipse,label="Start Find and Outline Requirements",fillcolor =royalblue3,style=filled];
+	"Task End 1 1 3 1 1 0 0 Find and Outline Requirements |" [shape=ellipse,label="End Find and Outline Requirements",fillcolor =royalblue3,style=filled];
+	
+	"Task Artifact 1 1 3 1 1 9 0 Work Items List |" [shape=note,label="Work Items List",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/WorkItemsList/workItemsList.html"];
+	"Task Artifact 1 1 3 1 1 11 0 Supporting Requirements |" [shape=note,label="Supporting Requirements",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/SupportingRequirements/supportingRequirements.html"];
+	"Task Artifact 1 1 3 1 1 10 0 Glossary |" [shape=note,label="Glossary",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/Glossary/glossary.html"];
+	"Task Artifact 1 1 3 1 1 12 0 Use Case |" [shape=note,label="Use Case",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/UseCase/useCase.html"];
+	"Task Artifact 1 1 3 1 1 13 0 Use-Case Model |" [shape=note,label="Use-Case Model",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/UseCaseModel/useCaseModel.html"];	
+
+}

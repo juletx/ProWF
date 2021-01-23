@@ -1,0 +1,8 @@
+<map id="iterationPlan" name="iterationPlan">
+<area shape="rect" id="node2" href="./Templates/KeyMilestones.txt" title="1. Key milestones" alt="" coords="37,136,182,184"/>
+<area shape="rect" id="node3" href="./Templates/High-levelObjectives.txt" title="2. High&#45;level objectives" alt="" coords="19,232,200,280"/>
+<area shape="rect" id="node4" href="./Templates/WorkItemAssignments.txt" title="3. Work Item assignments" alt="" coords="9,328,210,376"/>
+<area shape="rect" id="node5" href="./Templates/Issues.txt" title="4. Issues" alt="" coords="68,424,151,472"/>
+<area shape="rect" id="node6" href="./Templates/EvaluationCriteria.txt" title="5. Evaluation criteria" alt="" coords="28,520,191,568"/>
+<area shape="rect" id="node7" href="./Templates/Assessment.txt" title="6. Assessment" alt="" coords="47,616,172,664"/>
+</map>

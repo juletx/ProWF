@@ -1,0 +1,1464 @@
+; Mon Jul 06 18:01:05 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_1] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_10] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_100] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_101] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_102] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_103] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_104] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_105] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_106] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_107] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_108] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_109] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_11] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_110] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_111] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_112] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_113] of  data
+
+	(_key "y")
+	(Text "242.92337"))
+
+([data_114] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_115] of  data
+
+	(_key "x")
+	(Text "502.0544"))
+
+([data_116] of  data
+
+	(_key "x")
+	(Text "498.70834"))
+
+([data_117] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_118] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_119] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_12] of  data
+
+	(_key "x")
+	(Text "383.8251"))
+
+([data_120] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_121] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_122] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_123] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_124] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_125] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_126] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_127] of  data
+
+	(_key "url")
+	(Text "./Templates/problemStatement.txt"))
+
+([data_128] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_129] of  data
+
+	(_key "url")
+	(Text "./Templates/productPositionStatement.txt"))
+
+([data_13] of  data
+
+	(_key "x")
+	(Text "503.58444"))
+
+([data_130] of  data
+
+	(_key "y")
+	(Text "-394.91086"))
+
+([data_131] of  data
+
+	(_key "label")
+	(Text "2.1 Problem Statement"))
+
+([data_132] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_133] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_134] of  data
+
+	(_key "label")
+	(Text "Start Vision"))
+
+([data_135] of  data
+
+	(_key "x")
+	(Text "-90.66865"))
+
+([data_136] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_137] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_138] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_139] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_14] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_140] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_141] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_142] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_143] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_144] of  data
+
+	(_key "x")
+	(Text "-180.92244"))
+
+([data_145] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_146] of  data
+
+	(_key "x")
+	(Text "-246.6331"))
+
+([data_147] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_148] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_149] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_15] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_150] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_151] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_152] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_153] of  data
+
+	(_key "x")
+	(Text "-253.72191"))
+
+([data_154] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_155] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_156] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_157] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_158] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_159] of  data
+
+	(_key "x")
+	(Text "132.5027"))
+
+([data_16] of  data
+
+	(_key "y")
+	(Text "-397.64084"))
+
+([data_160] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_161] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_162] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_163] of  data
+
+	(_key "x")
+	(Text "-362.26437"))
+
+([data_164] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_165] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_166] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_167] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_168] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_169] of  data
+
+	(_key "y")
+	(Text "-214.86526"))
+
+([data_17] of  data
+
+	(_key "url")
+	(Text "./Templates/stakeholderSummary.txt"))
+
+([data_170] of  data
+
+	(_key "y")
+	(Text "132.07309"))
+
+([data_171] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_172] of  data
+
+	(_key "x")
+	(Text "-293.8755"))
+
+([data_173] of  data
+
+	(_key "label")
+	(Text "3.1 Stakeholder Summary"))
+
+([data_174] of  data
+
+	(_key "x")
+	(Text "502.64438"))
+
+([data_175] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_176] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_177] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_178] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_179] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_18] of  data
+
+	(_key "y")
+	(Text "-137.36008"))
+
+([data_180] of  data
+
+	(_key "label")
+	(Text "2.2 Product Position Statement"))
+
+([data_181] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_182] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_183] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_184] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_185] of  data
+
+	(_key "label")
+	(Text "Vision"))
+
+([data_186] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_187] of  data
+
+	(_key "x")
+	(Text "-147.59656"))
+
+([data_188] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_189] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_19] of  data
+
+	(_key "y")
+	(Text "-398.33298"))
+
+([data_190] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_191] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_192] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([data_193] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_194] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_195] of  data
+
+	(_key "y")
+	(Text "250.33267"))
+
+([data_196] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_197] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_198] of  data
+
+	(_key "y")
+	(Text "475.1566"))
+
+([data_199] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_2] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_20] of  data
+
+	(_key "url")
+	(Text "./Templates/needsAndFeatures.txt"))
+
+([data_200] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_201] of  data
+
+	(_key "x")
+	(Text "184.80312"))
+
+([data_202] of  data
+
+	(_key "label")
+	(Text "3.2 User Environment"))
+
+([data_203] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_204] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_205] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_206] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_207] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_208] of  data
+
+	(_key "x")
+	(Text "-350.40558"))
+
+([data_209] of  data
+
+	(_key "y")
+	(Text "552.37866"))
+
+([data_21] of  data
+
+	(_key "y")
+	(Text "-268.1912"))
+
+([data_210] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_211] of  data
+
+	(_key "y")
+	(Text "-162.38474"))
+
+([data_212] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_213] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_214] of  data
+
+	(_key "x")
+	(Text "-312.893"))
+
+([data_215] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_216] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_217] of  data
+
+	(_key "y")
+	(Text "-392.76407"))
+
+([data_218] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_219] of  data
+
+	(_key "x")
+	(Text "-195.30052"))
+
+([data_22] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_220] of  data
+
+	(_key "label")
+	(Text "1. Introduction"))
+
+([data_221] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_222] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_223] of  data
+
+	(_key "url")
+	(Text "./Templates/otherProductRequirements.txt"))
+
+([data_224] of  data
+
+	(_key "y")
+	(Text "-82.630615"))
+
+([data_225] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_226] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_227] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_228] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_229] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_23] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_230] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_24] of  data
+
+	(_key "y")
+	(Text "194.72977"))
+
+([data_25] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_26] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_27] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_28] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_29] of  data
+
+	(_key "label")
+	(Text "End Vision"))
+
+([data_3] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_30] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_31] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_32] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_33] of  data
+
+	(_key "url")
+	(Text "./Templates/userEnvironment.txt"))
+
+([data_34] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_35] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_36] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_37] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_38] of  data
+
+	(_key "x")
+	(Text "-320.3494"))
+
+([data_39] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_4] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_40] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_41] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_42] of  data
+
+	(_key "y")
+	(Text "392.68234"))
+
+([data_43] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_44] of  data
+
+	(_key "y")
+	(Text "-197.9473"))
+
+([data_45] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_46] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_47] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_48] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_49] of  data
+
+	(_key "y")
+	(Text "246.54074"))
+
+([data_5] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_50] of  data
+
+	(_key "x")
+	(Text "224.41261"))
+
+([data_51] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_52] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_53] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_54] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_55] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_56] of  data
+
+	(_key "y")
+	(Text "-18.675814"))
+
+([data_57] of  data
+
+	(_key "x")
+	(Text "322.31796"))
+
+([data_58] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_59] of  data
+
+	(_key "x")
+	(Text "-260.83032"))
+
+([data_6] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_60] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_61] of  data
+
+	(_key "label")
+	(Text "4. Product Overview"))
+
+([data_62] of  data
+
+	(_key "y")
+	(Text "-81.599304"))
+
+([data_63] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_64] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_65] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_66] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_67] of  data
+
+	(_key "label")
+	(Text "4.1 Needs and Features"))
+
+([data_68] of  data
+
+	(_key "label")
+	(Text "5. Other Product Requirements"))
+
+([data_69] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_7] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_70] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_71] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_72] of  data
+
+	(_key "y")
+	(Text "365.53616"))
+
+([data_73] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_74] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_75] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_76] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_77] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_78] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_79] of  data
+
+	(_key "y")
+	(Text "-105.050354"))
+
+([data_8] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_80] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_81] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_82] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_83] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_84] of  data
+
+	(_key "label")
+	(Text "2. Positioning"))
+
+([data_85] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_86] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_87] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_88] of  data
+
+	(_key "x")
+	(Text "-239.39168"))
+
+([data_89] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_9] of  data
+
+	(_key "label")
+	(Text "3. Stakeholder Descriptions"))
+
+([data_90] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_91] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_92] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_93] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_94] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_95] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_96] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_97] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_98] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_99] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([edge_0] of  edge
+
+	(_id "269")
+	(_source "Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt")
+	(_target "Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt")
+	(dataSlot [data_26]))
+
+([edge_1] of  edge
+
+	(_id "265")
+	(_source "Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |")
+	(_target "Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt")
+	(dataSlot [data_40]))
+
+([edge_10] of  edge
+
+	(_id "267")
+	(_source "Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt")
+	(_target "Artifact Section 1 1 1 1 1 14 4 Product Overview |")
+	(dataSlot [data_137]))
+
+([edge_2] of  edge
+
+	(_id "264")
+	(_source "Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt")
+	(_target "Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |")
+	(dataSlot [data_36]))
+
+([edge_3] of  edge
+
+	(_id "270")
+	(_source "Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt")
+	(_target "Artifact End 1 1 1 1 1 14 0 Vision |")
+	(dataSlot [data_150]))
+
+([edge_4] of  edge
+
+	(_id "260")
+	(_source "Artifact Start 1 1 1 1 1 14 0 Vision |")
+	(_target "Artifact Section 1 1 1 1 1 14 1 Introduction |")
+	(dataSlot [data_25]))
+
+([edge_5] of  edge
+
+	(_id "261")
+	(_source "Artifact Section 1 1 1 1 1 14 1 Introduction |")
+	(_target "Artifact Section 1 1 1 1 1 14 2 Positioning |")
+	(dataSlot [data_76]))
+
+([edge_6] of  edge
+
+	(_id "262")
+	(_source "Artifact Section 1 1 1 1 1 14 2 Positioning |")
+	(_target "Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt")
+	(dataSlot [data_100]))
+
+([edge_7] of  edge
+
+	(_id "266")
+	(_source "Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt")
+	(_target "Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt")
+	(dataSlot [data_118]))
+
+([edge_8] of  edge
+
+	(_id "263")
+	(_source "Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt")
+	(_target "Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt")
+	(dataSlot [data_206]))
+
+([edge_9] of  edge
+
+	(_id "268")
+	(_source "Artifact Section 1 1 1 1 1 14 4 Product Overview |")
+	(_target "Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt")
+	(dataSlot [data_156]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_4])
+	(nodeSlot [node_9]))
+
+([key_0] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([key_1] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([key_10] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_11] of  key
+
+	(_attr.name "url")
+	(_attr.type "string")
+	(_for "node")
+	(_id "url"))
+
+([key_12] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_13] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_14] of  key
+
+	(_attr.name "margin")
+	(_attr.type "string")
+	(_for "node")
+	(_id "margin"))
+
+([key_15] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([key_2] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([key_3] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_4] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([key_5] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_6] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([key_7] of  key
+
+	(_attr.name "fontcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontcolor"))
+
+([key_8] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_9] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([node_0] of  node
+
+	(_id "Artifact End 1 1 1 1 1 14 0 Vision |")
+	(dataSlot [data_29]))
+
+([node_1] of  node
+
+	(_id "Artifact Start 1 1 1 1 1 14 0 Vision |")
+	(dataSlot [data_134]))
+
+([node_10] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_213]))
+
+([node_11] of  node
+
+	(_id "16")
+	(dataSlot [data_192]))
+
+([node_12] of  node
+
+	(_id "Artifact Section 1 1 1 1 1 14 2 Positioning |")
+	(dataSlot [data_84]))
+
+([node_13] of  node
+
+	(_id "Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt")
+	(dataSlot [data_202]))
+
+([node_14] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_109]))
+
+([node_15] of  node
+
+	(_id "t")
+	(dataSlot [data_152]))
+
+([node_16] of  node
+
+	(_id "Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt")
+	(dataSlot [data_68]))
+
+([node_17] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_63]))
+
+([node_18] of  node
+
+	(_id "Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt")
+	(dataSlot [data_173]))
+
+([node_19] of  node
+
+	(_id "Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |")
+	(dataSlot [data_9]))
+
+([node_2] of  node
+
+	(_id "Arial")
+	(dataSlot [data_157]))
+
+([node_20] of  node
+
+	(_id "label")
+	(dataSlot [data_45]))
+
+([node_21] of  node
+
+	(_id "Artifact Section 1 1 1 1 1 14 4 Product Overview |")
+	(dataSlot [data_61]))
+
+([node_3] of  node
+
+	(_id "Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt")
+	(dataSlot [data_67]))
+
+([node_4] of  node
+
+	(_id "Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt")
+	(dataSlot [data_131]))
+
+([node_5] of  node
+
+	(_id "fontname")
+	(dataSlot [data_191]))
+
+([node_6] of  node
+
+	(_id "Vision")
+	(dataSlot [data_185]))
+
+([node_7] of  node
+
+	(_id "Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt")
+	(dataSlot [data_180]))
+
+([node_8] of  node
+
+	(_id "Artifact Section 1 1 1 1 1 14 1 Introduction |")
+	(dataSlot [data_220]))
+
+([node_9] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_92]))

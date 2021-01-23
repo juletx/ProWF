@@ -1,0 +1,6 @@
+[Provide a statement summarizing the problem being solved by this project. The following format may be used:]
+
+- The problem of	[describe the problem]
+- affects	[the stakeholders affected by the problem]
+- the impact of which is	[what is the impact of the problem?]
+- a successful solution would be	[list some key benefits of a successful solution]

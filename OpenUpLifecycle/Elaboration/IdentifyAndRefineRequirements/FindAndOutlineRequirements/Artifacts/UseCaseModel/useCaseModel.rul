@@ -1,0 +1,697 @@
+; Mon Jul 06 18:27:43 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_1] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_10] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_100] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_101] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_11] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_12] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_13] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_14] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_15] of  data
+
+	(_key "label")
+	(Text "End Use-Case Model"))
+
+([data_16] of  data
+
+	(_key "x")
+	(Text "-365.76614"))
+
+([data_17] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_18] of  data
+
+	(_key "y")
+	(Text "274.56607"))
+
+([data_19] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_2] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_20] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_21] of  data
+
+	(_key "y")
+	(Text "197.15518"))
+
+([data_22] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_23] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_24] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_25] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_26] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_27] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_28] of  data
+
+	(_key "y")
+	(Text "-283.8018"))
+
+([data_29] of  data
+
+	(_key "y")
+	(Text "31.425148"))
+
+([data_3] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_30] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_31] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_32] of  data
+
+	(_key "y")
+	(Text "192.33493"))
+
+([data_33] of  data
+
+	(_key "y")
+	(Text "-230.3328"))
+
+([data_34] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_35] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_36] of  data
+
+	(_key "y")
+	(Text "-97.07232"))
+
+([data_37] of  data
+
+	(_key "label")
+	(Text "Use-Case Model"))
+
+([data_38] of  data
+
+	(_key "x")
+	(Text "-148.33621"))
+
+([data_39] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_4] of  data
+
+	(_key "x")
+	(Text "192.65613"))
+
+([data_40] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_41] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_42] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_43] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_44] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_45] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_46] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_47] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_48] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_49] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_5] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_50] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_51] of  data
+
+	(_key "x")
+	(Text "-463.97192"))
+
+([data_52] of  data
+
+	(_key "x")
+	(Text "58.173893"))
+
+([data_53] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_54] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_55] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_56] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_57] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_58] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_59] of  data
+
+	(_key "label")
+	(Text "Create and Upload graph"))
+
+([data_6] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_60] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_61] of  data
+
+	(_key "y")
+	(Text "-370.6655"))
+
+([data_62] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_63] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_64] of  data
+
+	(_key "label")
+	(Text "Start Use-Case Model"))
+
+([data_65] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_66] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_67] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_68] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_69] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_7] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_70] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_71] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_72] of  data
+
+	(_key "y")
+	(Text "265.0311"))
+
+([data_73] of  data
+
+	(_key "y")
+	(Text "90.17753"))
+
+([data_74] of  data
+
+	(_key "x")
+	(Text "292.65997"))
+
+([data_75] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_76] of  data
+
+	(_key "y")
+	(Text "-166.9834"))
+
+([data_77] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_78] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_79] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_8] of  data
+
+	(_key "x")
+	(Text "4.693059"))
+
+([data_80] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_81] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_82] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_83] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_84] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_85] of  data
+
+	(_key "x")
+	(Text "272.55835"))
+
+([data_86] of  data
+
+	(_key "y")
+	(Text "-13.3431635"))
+
+([data_87] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_88] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_89] of  data
+
+	(_key "y")
+	(Text "111.50895"))
+
+([data_9] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_90] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_91] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_92] of  data
+
+	(_key "x")
+	(Text "49.382206"))
+
+([data_93] of  data
+
+	(_key "x")
+	(Text "269.1626"))
+
+([data_94] of  data
+
+	(_key "x")
+	(Text "-347.51508"))
+
+([data_95] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_96] of  data
+
+	(_key "x")
+	(Text "-35.152706"))
+
+([data_97] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_98] of  data
+
+	(_key "x")
+	(Text "221.45581"))
+
+([data_99] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([edge_0] of  edge
+
+	(_id "189")
+	(_source "Artifact Start 1 2 1 1 1 13 0 Use-Case Model |")
+	(_target "Artifact UploadGraph 1 2 1 1 1 13 0 Create and Upload graph |")
+	(dataSlot [data_56]))
+
+([edge_1] of  edge
+
+	(_id "190")
+	(_source "Artifact UploadGraph 1 2 1 1 1 13 0 Create and Upload graph |")
+	(_target "Artifact End 1 2 1 1 1 13 0 Use-Case Model |")
+	(dataSlot [data_20]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_0])
+	(nodeSlot [node_5]))
+
+([key_0] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([key_1] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([key_10] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_11] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_12] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([key_13] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_2] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_3] of  key
+
+	(_attr.name "margin")
+	(_attr.type "string")
+	(_for "node")
+	(_id "margin"))
+
+([key_4] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([key_5] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_6] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_7] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([key_8] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([key_9] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([node_0] of  node
+
+	(_id "fontname")
+	(dataSlot [data_10]))
+
+([node_1] of  node
+
+	(_id "Artifact Start 1 2 1 1 1 13 0 Use-Case Model |")
+	(dataSlot [data_64]))
+
+([node_10] of  node
+
+	(_id "t")
+	(dataSlot [data_66]))
+
+([node_11] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_39]))
+
+([node_12] of  node
+
+	(_id "label")
+	(dataSlot [data_80]))
+
+([node_2] of  node
+
+	(_id "Artifact End 1 2 1 1 1 13 0 Use-Case Model |")
+	(dataSlot [data_15]))
+
+([node_3] of  node
+
+	(_id "Use-Case Model")
+	(dataSlot [data_37]))
+
+([node_4] of  node
+
+	(_id "Artifact UploadGraph 1 2 1 1 1 13 0 Create and Upload graph |")
+	(dataSlot [data_59]))
+
+([node_5] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_60]))
+
+([node_6] of  node
+
+	(_id "Arial")
+	(dataSlot [data_11]))
+
+([node_7] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_97]))
+
+([node_8] of  node
+
+	(_id "16")
+	(dataSlot [data_99]))
+
+([node_9] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_17]))

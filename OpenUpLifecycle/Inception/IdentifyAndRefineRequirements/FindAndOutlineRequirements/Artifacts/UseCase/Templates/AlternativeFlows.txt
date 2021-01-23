@@ -1,0 +1,4 @@
+5.1	<alternate flow 1>
+If in step <x> of the basic flow the <actor or system does something>, then 
+1.	<describe flow>  
+2.	The use case resumes at step <y>

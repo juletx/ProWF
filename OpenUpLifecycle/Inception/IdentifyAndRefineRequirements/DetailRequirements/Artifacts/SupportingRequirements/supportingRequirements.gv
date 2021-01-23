@@ -1,0 +1,143 @@
+digraph supportingRequirements {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Supporting Requirements",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+	"Artifact Start 1 1 3 2 1 11 0 Supporting Requirements |" -> "Artifact Section 1 1 3 2 1 11 1 Introduction |" [style=solid];
+	"Artifact Section 1 1 3 2 1 11 1 Introduction |" -> "Artifact SectionWT 1 1 3 2 1 11 2 System-Wide Functional Requirements | Templates/SupportingRequirements/System-WideFunctionalRequirements.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 2 System-Wide Functional Requirements | Templates/SupportingRequirements/System-WideFunctionalRequirements.txt" -> "Artifact SectionWT 1 1 3 2 1 11 3 System Qualities | Templates/SupportingRequirements/SystemQualities.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 3 System Qualities | Templates/SupportingRequirements/SystemQualities.txt" -> "Artifact SectionWT 1 1 3 2 1 11 4 System Interfaces | Templates/SupportingRequirements/SystemInterfaces.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 4 System Interfaces | Templates/SupportingRequirements/SystemInterfaces.txt" -> "Artifact SectionWT 1 1 3 2 1 11 4.1 User Interfaces | Templates/SupportingRequirements/UserInterfaces.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 4.1 User Interfaces | Templates/SupportingRequirements/UserInterfaces.txt" -> "Artifact SectionWT 1 1 3 2 1 11 4.2 Interfaces to External Systems or Devices | Templates/SupportingRequirements/InterfacesToExternalSystemsOrDevices.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 4.2 Interfaces to External Systems or Devices | Templates/SupportingRequirements/InterfacesToExternalSystemsOrDevices.txt" -> "Artifact SectionWT 1 1 3 2 1 11 5 Business Rules | Templates/SupportingRequirements/BusinessRules.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 5 Business Rules | Templates/SupportingRequirements/BusinessRules.txt" -> "Artifact SectionWT 1 1 3 2 1 11 6 System Constraints | Templates/SupportingRequirements/SystemConstraints.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 6 System Constraints | Templates/SupportingRequirements/SystemConstraints.txt" -> "Artifact SectionWT 1 1 3 2 1 11 7 System Compliance | Templates/SupportingRequirements/SystemCompliance.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 7 System Compliance | Templates/SupportingRequirements/SystemCompliance.txt" -> "Artifact SectionWT 1 1 3 2 1 11 8 System Documentation | Templates/SupportingRequirements/SystemDocumentation.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 2 1 11 8 System Documentation | Templates/SupportingRequirements/SystemDocumentation.txt" -> "Artifact End 1 1 3 2 1 11 0 Supporting Requirements |" [style=solid];
+    
+	"Artifact Start 1 1 3 2 1 11 0 Supporting Requirements |" [shape=ellipse,label="Start Supporting Requirements",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 1 3 2 1 11 0 Supporting Requirements |" [shape=ellipse,label="End Supporting Requirements",fillcolor =royalblue3,style=filled];
+	
+	"Artifact Section 1 1 3 2 1 11 1 Introduction |" [
+    		shape = component,
+    		label = "1. Introduction",
+    		margin="0.11,0.11",	 
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 2 System-Wide Functional Requirements | Templates/SupportingRequirements/System-WideFunctionalRequirements.txt" [
+    		shape = component,
+    		label = "2. System-Wide Functional Requirements",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/System-WideFunctionalRequirements.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 3 System Qualities | Templates/SupportingRequirements/SystemQualities.txt" [
+    		shape = component,
+    		label = "3. System Qualities",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/SystemQualities.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 4 System Interfaces | Templates/SupportingRequirements/SystemInterfaces.txt" [
+    		shape = component,
+    		label = "4. System Interfaces",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/SystemInterfaces.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+	"Artifact SectionWT 1 1 3 2 1 11 4.1 User Interfaces | Templates/SupportingRequirements/UserInterfaces.txt" [
+    		shape = box,
+    		label = "4.1 User Interfaces",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/UserInterfaces.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 4.2 Interfaces to External Systems or Devices | Templates/SupportingRequirements/InterfacesToExternalSystemsOrDevices.txt" [
+    		shape = box,
+    		label = "4.2 Interfaces to External Systems or Devices",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/InterfacesToExternalSystemsOrDevices.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 5 Business Rules | Templates/SupportingRequirements/BusinessRules.txt" [
+    		shape = component,
+    		label = "5 Business Rules",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/BusinessRules.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 6 System Constraints | Templates/SupportingRequirements/SystemConstraints.txt" [
+    		shape = component,
+    		label = "6. System Constraints",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/SystemConstraints.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 7 System Compliance | Templates/SupportingRequirements/SystemCompliance.txt" [
+    		shape = component,
+    		label = "7. System Compliance",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/SystemCompliance.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	"Artifact SectionWT 1 1 3 2 1 11 8 System Documentation | Templates/SupportingRequirements/SystemDocumentation.txt" [
+    		shape = component,
+    		label = "8. System Documentation",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/SystemDocumentation.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	
+}

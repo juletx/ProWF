@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-15.8823185</data>
+<data key="y">347.37454</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">457.87894</data>
+<data key="y">-564.8062</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-25.835596</data>
+<data key="y">400.59055</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-254.73119</data>
+<data key="y">10.810091</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-230.5657</data>
+<data key="y">-241.13971</data>
+</node>
+<node id="Outline The Architecture">
+<data key="label">Outline The Architecture</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-363.7207</data>
+<data key="y">56.320896</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">445.6799</data>
+<data key="y">-129.32043</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">236.88217</data>
+<data key="y">-278.5144</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">9.929998</data>
+<data key="y">291.56442</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-273.02176</data>
+<data key="y">26.451998</data>
+</node>
+<node id="Task Start 1 1 4 1 3 0 0 Outline The Architecture |">
+<data key="label">Start Outline The Architecture</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">263.95078</data>
+<data key="y">-504.1222</data>
+</node>
+<node id="Task Artifact 1 1 4 1 3 1 0 Architecture Notebook |">
+<data key="label">Architecture Notebook</data>
+<data key="shape">note</data>
+<data key="fillcolor">white</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Artifacts/ArchitectureNotebook/architectureNotebook.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">66.14793</data>
+<data key="y">374.9617</data>
+</node>
+<node id="Task End 1 1 4 1 3 0 0 Outline The Architecture |">
+<data key="label">End Outline The Architecture</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-316.7125</data>
+<data key="y">209.82877</data>
+</node>
+<edge id="27" source="Task Start 1 1 4 1 3 0 0 Outline The Architecture |" target="Task Artifact 1 1 4 1 3 1 0 Architecture Notebook |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="28" source="Task Artifact 1 1 4 1 3 1 0 Architecture Notebook |" target="Task End 1 1 4 1 3 0 0 Outline The Architecture |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

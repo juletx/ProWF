@@ -1,0 +1,851 @@
+; Mon Jul 06 13:27:16 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_1] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_10] of  data
+
+	(_key "y")
+	(Text "-235.5635"))
+
+([data_100] of  data
+
+	(_key "y")
+	(Text "494.90274"))
+
+([data_101] of  data
+
+	(_key "x")
+	(Text "-437.40744"))
+
+([data_102] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_103] of  data
+
+	(_key "y")
+	(Text "-183.70923"))
+
+([data_104] of  data
+
+	(_key "x")
+	(Text "-83.65731"))
+
+([data_105] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_106] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_107] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_108] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_109] of  data
+
+	(_key "y")
+	(Text "44.518826"))
+
+([data_11] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_110] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_111] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_112] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_113] of  data
+
+	(_key "x")
+	(Text "-61.153706"))
+
+([data_114] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_115] of  data
+
+	(_key "url")
+	(Text "./Artifacts/Glossary/glossary.html"))
+
+([data_116] of  data
+
+	(_key "y")
+	(Text "-136.92853"))
+
+([data_117] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_118] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_119] of  data
+
+	(_key "label")
+	(Text "Work Items List"))
+
+([data_12] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_120] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_121] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_122] of  data
+
+	(_key "url")
+	(Text "./Artifacts/Vision/vision.html"))
+
+([data_123] of  data
+
+	(_key "y")
+	(Text "-160.13953"))
+
+([data_124] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_125] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_126] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_127] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_13] of  data
+
+	(_key "url")
+	(Text "./Artifacts/WorkItemsList/workItemsList.html"))
+
+([data_14] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_15] of  data
+
+	(_key "y")
+	(Text "501.0034"))
+
+([data_16] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_17] of  data
+
+	(_key "y")
+	(Text "164.93729"))
+
+([data_18] of  data
+
+	(_key "y")
+	(Text "426.58145"))
+
+([data_19] of  data
+
+	(_key "shape")
+	(Text "note"))
+
+([data_2] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_20] of  data
+
+	(_key "shape")
+	(Text "note"))
+
+([data_21] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_22] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_23] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_24] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_25] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_26] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_27] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_28] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_29] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_3] of  data
+
+	(_key "label")
+	(Text "Glossary"))
+
+([data_30] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_31] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_32] of  data
+
+	(_key "x")
+	(Text "336.41812"))
+
+([data_33] of  data
+
+	(_key "shape")
+	(Text "note"))
+
+([data_34] of  data
+
+	(_key "y")
+	(Text "-409.48093"))
+
+([data_35] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_36] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_37] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_38] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_39] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_4] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_40] of  data
+
+	(_key "x")
+	(Text "396.48483"))
+
+([data_41] of  data
+
+	(_key "label")
+	(Text "Define Vision"))
+
+([data_42] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_43] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_44] of  data
+
+	(_key "y")
+	(Text "233.45792"))
+
+([data_45] of  data
+
+	(_key "x")
+	(Text "-370.6674"))
+
+([data_46] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_47] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_48] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_49] of  data
+
+	(_key "x")
+	(Text "-35.298634"))
+
+([data_5] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_50] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_51] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_52] of  data
+
+	(_key "x")
+	(Text "149.26598"))
+
+([data_53] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_54] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_55] of  data
+
+	(_key "y")
+	(Text "-173.75992"))
+
+([data_56] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_57] of  data
+
+	(_key "x")
+	(Text "43.15501"))
+
+([data_58] of  data
+
+	(_key "x")
+	(Text "275.7399"))
+
+([data_59] of  data
+
+	(_key "label")
+	(Text "Start Define Vision"))
+
+([data_6] of  data
+
+	(_key "y")
+	(Text "-223.73709"))
+
+([data_60] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_61] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_62] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_63] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_64] of  data
+
+	(_key "label")
+	(Text "End Define Vision"))
+
+([data_65] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_66] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_67] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_68] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_69] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_7] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_70] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_71] of  data
+
+	(_key "y")
+	(Text "142.02945"))
+
+([data_72] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_73] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_74] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_75] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_76] of  data
+
+	(_key "x")
+	(Text "-307.36856"))
+
+([data_77] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_78] of  data
+
+	(_key "y")
+	(Text "-484.11227"))
+
+([data_79] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_8] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_80] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_81] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_82] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_83] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_84] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_85] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_86] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_87] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_88] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_89] of  data
+
+	(_key "x")
+	(Text "248.05571"))
+
+([data_9] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_90] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([data_91] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_92] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_93] of  data
+
+	(_key "x")
+	(Text "-317.49847"))
+
+([data_94] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_95] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_96] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_97] of  data
+
+	(_key "x")
+	(Text "385.29886"))
+
+([data_98] of  data
+
+	(_key "label")
+	(Text "Vision"))
+
+([data_99] of  data
+
+	(_key "x")
+	(Text "-221.36696"))
+
+([edge_0] of  edge
+
+	(_id "52")
+	(_source "Task Artifact 1 1 1 1 1 14 0 Vision |")
+	(_target "Task Artifact 1 1 1 1 1 10 0 Glossary |")
+	(dataSlot [data_56]))
+
+([edge_1] of  edge
+
+	(_id "54")
+	(_source "Task Artifact 1 1 1 1 1 9 0 Work Items List |")
+	(_target "Task End 1 1 1 1 1 0 0 Define Vision |")
+	(dataSlot [data_65]))
+
+([edge_2] of  edge
+
+	(_id "53")
+	(_source "Task Artifact 1 1 1 1 1 10 0 Glossary |")
+	(_target "Task Artifact 1 1 1 1 1 9 0 Work Items List |")
+	(dataSlot [data_39]))
+
+([edge_3] of  edge
+
+	(_id "51")
+	(_source "Task Start 1 1 1 1 1 0 0 Define Vision |")
+	(_target "Task Artifact 1 1 1 1 1 14 0 Vision |")
+	(dataSlot [data_70]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_3])
+	(nodeSlot [node_2]))
+
+([key_0] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([key_1] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_10] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_11] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([key_12] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_13] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_2] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_3] of  key
+
+	(_attr.name "url")
+	(_attr.type "string")
+	(_for "node")
+	(_id "url"))
+
+([key_4] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([key_5] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([key_6] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([key_7] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([key_8] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_9] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([node_0] of  node
+
+	(_id "Task Artifact 1 1 1 1 1 9 0 Work Items List |")
+	(dataSlot [data_119]))
+
+([node_1] of  node
+
+	(_id "label")
+	(dataSlot [data_54]))
+
+([node_10] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_73]))
+
+([node_11] of  node
+
+	(_id "fontname")
+	(dataSlot [data_12]))
+
+([node_12] of  node
+
+	(_id "t")
+	(dataSlot [data_46]))
+
+([node_13] of  node
+
+	(_id "Arial")
+	(dataSlot [data_124]))
+
+([node_14] of  node
+
+	(_id "Task Artifact 1 1 1 1 1 10 0 Glossary |")
+	(dataSlot [data_3]))
+
+([node_2] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_85]))
+
+([node_3] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_83]))
+
+([node_4] of  node
+
+	(_id "Task Start 1 1 1 1 1 0 0 Define Vision |")
+	(dataSlot [data_59]))
+
+([node_5] of  node
+
+	(_id "Task End 1 1 1 1 1 0 0 Define Vision |")
+	(dataSlot [data_64]))
+
+([node_6] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_24]))
+
+([node_7] of  node
+
+	(_id "16")
+	(dataSlot [data_90]))
+
+([node_8] of  node
+
+	(_id "Task Artifact 1 1 1 1 1 14 0 Vision |")
+	(dataSlot [data_98]))
+
+([node_9] of  node
+
+	(_id "Define Vision")
+	(dataSlot [data_41]))

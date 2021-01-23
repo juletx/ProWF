@@ -1,0 +1,1 @@
+dot -Gcharset=latin1 -Tgif -Tcmapx  architectureNotebook.gv -O architectureNotebook.gif 

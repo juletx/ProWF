@@ -1,0 +1,7 @@
+<map id="useCase" name="useCase">
+<area shape="rect" id="node3" href="./Templates/ActorBriefDescriptions.txt" title="2. Actor Brief Descriptions" alt="" coords="5,232,211,280"/>
+<area shape="rect" id="node5" href="./Templates/BasicFlowOfEvents.txt" title="4. Basic Flow of Events" alt="" coords="16,424,200,472"/>
+<area shape="rect" id="node6" href="./Templates/AlternativeFlows.txt" title="5. Alternative Flows" alt="" coords="29,520,187,568"/>
+<area shape="rect" id="node7" href="./Templates/Subflows.txt" title="6. Subflows " alt="" coords="55,616,161,664"/>
+<area shape="rect" id="node8" href="./Templates/KeyScenarios.txt" title="7. Key Scenarios" alt="" coords="37,712,179,760"/>
+</map>

@@ -1,0 +1,721 @@
+; Mon Jul 06 18:28:18 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_1] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_10] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_100] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_101] of  data
+
+	(_key "x")
+	(Text "-114.68635"))
+
+([data_102] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_103] of  data
+
+	(_key "y")
+	(Text "130.95909"))
+
+([data_11] of  data
+
+	(_key "x")
+	(Text "114.650505"))
+
+([data_12] of  data
+
+	(_key "y")
+	(Text "-361.68573"))
+
+([data_13] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_14] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_15] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_16] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_17] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_18] of  data
+
+	(_key "x")
+	(Text "-470.2898"))
+
+([data_19] of  data
+
+	(_key "y")
+	(Text "-148.24275"))
+
+([data_2] of  data
+
+	(_key "url")
+	(Text "./Templates/FillTable.txt"))
+
+([data_20] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_21] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_22] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_23] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_24] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_25] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_26] of  data
+
+	(_key "y")
+	(Text "304.925"))
+
+([data_27] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_28] of  data
+
+	(_key "x")
+	(Text "390.63995"))
+
+([data_29] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_3] of  data
+
+	(_key "y")
+	(Text "229.81181"))
+
+([data_30] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_31] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_32] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_33] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_34] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_35] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_36] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_37] of  data
+
+	(_key "x")
+	(Text "315.2511"))
+
+([data_38] of  data
+
+	(_key "label")
+	(Text "End Work Items List"))
+
+([data_39] of  data
+
+	(_key "y")
+	(Text "-271.91373"))
+
+([data_4] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_40] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_41] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_42] of  data
+
+	(_key "x")
+	(Text "42.89477"))
+
+([data_43] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_44] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_45] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_46] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_47] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_48] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_49] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_5] of  data
+
+	(_key "y")
+	(Text "-380.99548"))
+
+([data_50] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_51] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_52] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_53] of  data
+
+	(_key "y")
+	(Text "201.2335"))
+
+([data_54] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_55] of  data
+
+	(_key "y")
+	(Text "84.199875"))
+
+([data_56] of  data
+
+	(_key "x")
+	(Text "-167.40195"))
+
+([data_57] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_58] of  data
+
+	(_key "y")
+	(Text "-133.78008"))
+
+([data_59] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_6] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_60] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_61] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([data_62] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_63] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_64] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_65] of  data
+
+	(_key "x")
+	(Text "-483.67825"))
+
+([data_66] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_67] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_68] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_69] of  data
+
+	(_key "label")
+	(Text "Fill table"))
+
+([data_7] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_70] of  data
+
+	(_key "x")
+	(Text "-67.00016"))
+
+([data_71] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_72] of  data
+
+	(_key "label")
+	(Text "Work Items List"))
+
+([data_73] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_74] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_75] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_76] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_77] of  data
+
+	(_key "x")
+	(Text "-148.07285"))
+
+([data_78] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_79] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_8] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_80] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_81] of  data
+
+	(_key "y")
+	(Text "155.07787"))
+
+([data_82] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_83] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_84] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_85] of  data
+
+	(_key "x")
+	(Text "-137.68732"))
+
+([data_86] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_87] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_88] of  data
+
+	(_key "x")
+	(Text "361.37555"))
+
+([data_89] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_9] of  data
+
+	(_key "x")
+	(Text "364.00482"))
+
+([data_90] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_91] of  data
+
+	(_key "label")
+	(Text "Start Work Items List"))
+
+([data_92] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_93] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_94] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_95] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_96] of  data
+
+	(_key "y")
+	(Text "417.607"))
+
+([data_97] of  data
+
+	(_key "y")
+	(Text "-227.19633"))
+
+([data_98] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_99] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([edge_0] of  edge
+
+	(_id "191")
+	(_source "Artifact Start 1 2 1 1 1 9 0 Work Items List |")
+	(_target "Artifact SectionWT 1 2 1 1 1 9 0 Fill table | Templates/WorkItemsList/FillTable.txt")
+	(dataSlot [data_94]))
+
+([edge_1] of  edge
+
+	(_id "192")
+	(_source "Artifact SectionWT 1 2 1 1 1 9 0 Fill table | Templates/WorkItemsList/FillTable.txt")
+	(_target "Artifact End 1 2 1 1 1 9 0 Work Items List |")
+	(dataSlot [data_25]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_0])
+	(nodeSlot [node_6]))
+
+([key_0] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([key_1] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([key_10] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_11] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_12] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([key_13] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_14] of  key
+
+	(_attr.name "fontcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontcolor"))
+
+([key_15] of  key
+
+	(_attr.name "margin")
+	(_attr.type "string")
+	(_for "node")
+	(_id "margin"))
+
+([key_2] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_3] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([key_4] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_5] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([key_6] of  key
+
+	(_attr.name "url")
+	(_attr.type "string")
+	(_for "node")
+	(_id "url"))
+
+([key_7] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_8] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([key_9] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([node_0] of  node
+
+	(_id "Artifact End 1 2 1 1 1 9 0 Work Items List |")
+	(dataSlot [data_38]))
+
+([node_1] of  node
+
+	(_id "t")
+	(dataSlot [data_51]))
+
+([node_10] of  node
+
+	(_id "Work Items List")
+	(dataSlot [data_72]))
+
+([node_11] of  node
+
+	(_id "16")
+	(dataSlot [data_61]))
+
+([node_12] of  node
+
+	(_id "label")
+	(dataSlot [data_73]))
+
+([node_2] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_16]))
+
+([node_3] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_98]))
+
+([node_4] of  node
+
+	(_id "Artifact Start 1 2 1 1 1 9 0 Work Items List |")
+	(dataSlot [data_91]))
+
+([node_5] of  node
+
+	(_id "Arial")
+	(dataSlot [data_87]))
+
+([node_6] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_67]))
+
+([node_7] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 9 0 Fill table | Templates/WorkItemsList/FillTable.txt")
+	(dataSlot [data_69]))
+
+([node_8] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_40]))
+
+([node_9] of  node
+
+	(_id "fontname")
+	(dataSlot [data_64]))

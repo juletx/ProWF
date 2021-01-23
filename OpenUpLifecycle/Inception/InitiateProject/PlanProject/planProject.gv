@@ -1,0 +1,25 @@
+digraph planProject {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Plan Project",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Task Start 1 1 1 2 5 0 0 Plan Project |" -> "Task Artifact 1 1 1 2 5 7 0 Project Plan |";
+	"Task Artifact 1 1 1 2 5 7 0 Project Plan |" -> "Task Artifact 1 1 1 2 5 9 0 Work Items List |";
+	"Task Artifact 1 1 1 2 5 9 0 Work Items List |" -> "Task Artifact 1 1 1 2 5 8 0 Risk List |";
+	"Task Artifact 1 1 1 2 5 8 0 Risk List |" -> "Task End 1 1 1 2 5 0 0 Plan Project |";
+	
+    
+	"Task Start 1 1 1 2 5 0 0 Plan Project |" [shape=ellipse,label="Start Plan Project",fillcolor =royalblue3,style=filled];
+	"Task End 1 1 1 2 5 0 0 Plan Project |" [shape=ellipse,label="End Plan Project",fillcolor =royalblue3,style=filled];
+	
+		
+    "Task Artifact 1 1 1 2 5 7 0 Project Plan |" [shape=note,label="Project Plan ",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/ProjectPlan/projectPlan.html"];
+	"Task Artifact 1 1 1 2 5 9 0 Work Items List |" [shape=note,label="Work Items List",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/WorkItemsList/workItemsList.html"];
+	"Task Artifact 1 1 1 2 5 8 0 Risk List |" [shape=note,label="Risk List",fillcolor=white,style=filled,fontname = Arial,fontsize = 12, URL = "./Artifacts/RiskList/riskList.html"];
+	
+	
+}

@@ -1,0 +1,8 @@
+7.1	Licensing Requirements
+[Define any licensing enforcement requirements or other usage restriction requirements that are to be exhibited by the software.]
+
+7.2	Legal, Copyright, and Other Notices
+[This section describes any necessary legal disclaimers, warranties, copyright notices, patent notice, wordmark, trademark, or logo compliance issues for the software.]
+
+7.3	Applicable Standards
+[This section describes by reference any applicable standards and the specific sections of any such standards that apply to the system being described. For example, this could include legal, quality and regulatory standards, industry standards for usability, interoperability, internationalization, operating system compliance, and so forth.]

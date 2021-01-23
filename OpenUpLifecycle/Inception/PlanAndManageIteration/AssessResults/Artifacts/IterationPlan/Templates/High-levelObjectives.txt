@@ -1,0 +1,4 @@
+[List the key objectives for the iteration, typically one to five. Follow examples:
+•	Address usability issues raised by Department X.
+•	Deliver key scenarios that showcase meaningful integration with System Y.
+•	Present a technical demonstration (demo). ]

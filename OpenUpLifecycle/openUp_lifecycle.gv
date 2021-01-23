@@ -1,0 +1,126 @@
+digraph openUp_lifecycle {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "OpenUp Lyfecycle",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Methodology Start 1 0 0 0 0 0 0 OpenUp Lifecycle | Alpha" -> "Methodology Phase 1 1 0 0 0 0 0 Inception |";
+	
+	"Methodology Phase 1 1 0 0 0 0 0 Inception |" -> "Methodology Question 1 1 0 0 0 0 0 Inception |";
+	"Methodology Question 1 1 0 0 0 0 0 Inception |" -> "Methodology Decision 1 1 0 0 0 0 0 Inception |";
+	"Methodology Decision 1 1 0 0 0 0 0 Inception |" -> "Methodology Phase 1 1 0 0 0 0 0 Inception |" [label="(not ?*allAssessmentIsCorrect*)"];
+	"Methodology Decision 1 1 0 0 0 0 0 Inception |" -> "Methodology Phase 1 2 0 0 0 0 0 Elaboration |" [label="(?*allAssessmentIsCorrect*)"];
+
+	"Methodology Phase 1 2 0 0 0 0 0 Elaboration |" -> "Methodology Question 1 2 0 0 0 0 0 Elaboration |";
+	"Methodology Question 1 2 0 0 0 0 0 Elaboration |" -> "Methodology Decision 1 2 0 0 0 0 0 Elaboration |";
+	"Methodology Decision 1 2 0 0 0 0 0 Elaboration |" -> "Methodology Phase 1 2 0 0 0 0 0 Elaboration |" [label="(not ?*allAssessmentIsCorrect*)"];
+	"Methodology Decision 1 2 0 0 0 0 0 Elaboration |" -> "Methodology Phase 1 3 0 0 0 0 0 Construction |" [label="(?*allAssessmentIsCorrect*)"];
+	
+	"Methodology Phase 1 3 0 0 0 0 0 Construction |" -> "Methodology Question 1 3 0 0 0 0 0 Construction |";
+	"Methodology Question 1 3 0 0 0 0 0 Construction |" -> "Methodology Decision 1 3 0 0 0 0 0 Construction |";
+	"Methodology Decision 1 3 0 0 0 0 0 Construction |" -> "Methodology Phase 1 3 0 0 0 0 0 Construction |" [label="(not ?*allAssessmentIsCorrect*)"];
+	"Methodology Decision 1 3 0 0 0 0 0 Construction |" -> "Methodology Phase 1 4 0 0 0 0 0 Transition |" [label="(?*allAssessmentIsCorrect*)"];
+	
+	"Methodology Phase 1 4 0 0 0 0 0 Transition |" -> "Methodology Question 1 4 0 0 0 0 0 Transition |";
+	"Methodology Question 1 4 0 0 0 0 0 Transition |" -> "Methodology Decision 1 4 0 0 0 0 0 Transition |";
+	"Methodology Decision 1 4 0 0 0 0 0 Transition |" -> "Methodology Phase 1 4 0 0 0 0 0 Transition |" [label="(not ?*allAssessmentIsCorrect*)"];
+	"Methodology Decision 1 4 0 0 0 0 0 Transition |" -> "Methodology End 1 0 0 0 0 0 0 O OpenUp Lifecycle | Alpha" [label="(?*allAssessmentIsCorrect*)"];
+	
+	"Methodology Start 1 0 0 0 0 0 0 OpenUp Lifecycle | Alpha" [shape=ellipse,label="Start OpenUp Lifecycle",fillcolor =royalblue3,style=filled];
+	"Methodology End 1 0 0 0 0 0 0 O OpenUp Lifecycle | Alpha" [shape=ellipse,label="End OpenUp Lifecycle",fillcolor =royalblue3,style=filled];
+	
+	"Methodology Decision 1 1 0 0 0 0 0 Inception |" [shape=diamond,label="Go to the next phase",fillcolor=white,style=filled];
+	"Methodology Decision 1 2 0 0 0 0 0 Elaboration |" [shape=diamond,label="Go to the next phase",fillcolor=white,style=filled];
+	"Methodology Decision 1 3 0 0 0 0 0 Construction |" [shape=diamond,label="Go to the next phase",fillcolor=white,style=filled];
+	"Methodology Decision 1 4 0 0 0 0 0 Transition |" [shape=diamond,label="End Project",fillcolor=white,style=filled];
+	
+	"Methodology Question 1 1 0 0 0 0 0 Inception |" [
+    		shape = box,
+    		label = "Assessments?",
+    		margin="0.11,0.11",
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  	];	
+	
+	"Methodology Question 1 2 0 0 0 0 0 Elaboration |" [
+    		shape = box,
+    		label = "Assessments?",
+    		margin="0.11,0.11",
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  	];	
+	
+	"Methodology Question 1 3 0 0 0 0 0 Construction |" [
+    		shape = box,
+    		label = "Assessments?",
+    		margin="0.11,0.11",
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  	];	
+	
+	"Methodology Question 1 4 0 0 0 0 0 Transition |" [
+    		shape = box,
+    		label = "Assessments?",
+    		margin="0.11,0.11",
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  	];	
+	
+	"Methodology Phase 1 1 0 0 0 0 0 Inception |" [
+    		shape = box3d,
+    		label = "Inception",
+    		margin="0.11,0.11",
+	   		URL = "./Inception/inception.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+	
+	"Methodology Phase 1 2 0 0 0 0 0 Elaboration |" [
+    		shape = box3d,
+    		label = "Elaboration",
+    		margin="0.11,0.11",
+	   		URL = "./Elaboration/elaboration.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];
+	
+	"Methodology Phase 1 3 0 0 0 0 0 Construction |" [
+    		shape = box3d,
+    		label = "Construction",
+    		margin="0.11,0.11",
+	   		URL = "./Construction/construction.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];
+	"Methodology Phase 1 4 0 0 0 0 0 Transition |" [
+    		shape = box3d,
+    		label = "Transition",
+    		margin="0.11,0.11",
+	   		URL = "./Transition/transition.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+}

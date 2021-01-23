@@ -1,0 +1,33 @@
+digraph riskList {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Risk List",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Artifact Start 1 2 2 2 5 8 0 Risk List |" -> "Artifact SectionWT 1 2 2 2 5 8 0 Fill table | Templates/RiskList/FillTable.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 2 5 8 0 Fill table | Templates/RiskList/FillTable.txt" -> "Artifact End 1 2 2 2 5 8 0 Risk List |" [style=solid];
+    
+	"Artifact Start 1 2 2 2 5 8 0 Risk List |" [shape=ellipse,label="Start Risk List",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 2 2 2 5 8 0 Risk List |" [shape=ellipse,label="End Risk List",fillcolor =royalblue3,style=filled];
+	
+	
+
+	"Artifact SectionWT 1 2 2 2 5 8 0 Fill table | Templates/RiskList/FillTable.txt" [
+    		shape = component,
+    		label = "Fill table",
+    		margin="0.11,0.11",
+			URL = "./Templates/FillTable.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+		
+			
+	
+}

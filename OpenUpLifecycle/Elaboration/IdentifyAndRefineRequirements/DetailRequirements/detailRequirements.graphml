@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">481.86716</data>
+<data key="y">-14.205762</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">44.354645</data>
+<data key="y">-193.00597</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-67.26199</data>
+<data key="y">240.90086</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-184.53192</data>
+<data key="y">187.49986</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">132.59085</data>
+<data key="y">590.301</data>
+</node>
+<node id="Detail Requirements">
+<data key="label">Detail Requirements</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">223.89633</data>
+<data key="y">-259.81366</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-272.63754</data>
+<data key="y">9.602679</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-306.1711</data>
+<data key="y">-67.36571</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-185.84375</data>
+<data key="y">152.47945</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">122.11008</data>
+<data key="y">-230.33003</data>
+</node>
+<node id="Task Start 1 2 1 2 1 0 0 Detail Requirements |">
+<data key="label">Start Detail Requirements</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">20.832365</data>
+<data key="y">144.54826</data>
+</node>
+<node id="Task Artifact 1 2 1 2 1 11 0 Supporting Requirements |">
+<data key="label">Supporting Requirements</data>
+<data key="shape">note</data>
+<data key="fillcolor">white</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Artifacts/SupportingRequirements/supportingRequirements.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-250.37323</data>
+<data key="y">-270.7813</data>
+</node>
+<node id="Task Artifact 1 2 1 2 1 10 0 Glossary |">
+<data key="label">Glossary</data>
+<data key="shape">note</data>
+<data key="fillcolor">white</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Artifacts/Glossary/glossary.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-256.8856</data>
+<data key="y">161.20625</data>
+</node>
+<node id="Task Artifact 1 2 1 2 1 12 0 Use Case |">
+<data key="label">Use Case</data>
+<data key="shape">note</data>
+<data key="fillcolor">white</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Artifacts/UseCase/useCase.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">284.4672</data>
+<data key="y">-332.19815</data>
+</node>
+<node id="Task Artifact 1 2 1 2 1 13 0 Use-Case Model |">
+<data key="label">Use-Case Model</data>
+<data key="shape">note</data>
+<data key="fillcolor">white</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Artifacts/UseCaseModel/useCaseModel.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">481.8715</data>
+<data key="y">-28.41322</data>
+</node>
+<node id="Task End 1 2 1 2 1 0 0 Detail Requirements |">
+<data key="label">End Detail Requirements</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-268.28494</data>
+<data key="y">-90.42456</data>
+</node>
+<edge id="98" source="Task Start 1 2 1 2 1 0 0 Detail Requirements |" target="Task Artifact 1 2 1 2 1 11 0 Supporting Requirements |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="99" source="Task Artifact 1 2 1 2 1 11 0 Supporting Requirements |" target="Task Artifact 1 2 1 2 1 10 0 Glossary |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="100" source="Task Artifact 1 2 1 2 1 10 0 Glossary |" target="Task Artifact 1 2 1 2 1 12 0 Use Case |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="101" source="Task Artifact 1 2 1 2 1 12 0 Use Case |" target="Task Artifact 1 2 1 2 1 13 0 Use-Case Model |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="102" source="Task Artifact 1 2 1 2 1 13 0 Use-Case Model |" target="Task End 1 2 1 2 1 0 0 Detail Requirements |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

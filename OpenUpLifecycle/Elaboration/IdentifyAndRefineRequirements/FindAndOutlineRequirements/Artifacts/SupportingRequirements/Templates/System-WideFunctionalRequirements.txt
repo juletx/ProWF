@@ -1,0 +1,1 @@
+ [Statement of system-wide functional requirements, not expressed as use cases. Examples include auditing, authentication, printing, reporting.]

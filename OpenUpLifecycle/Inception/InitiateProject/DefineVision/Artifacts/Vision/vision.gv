@@ -1,0 +1,133 @@
+digraph vision {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Vision",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Artifact Start 1 1 1 1 1 14 0 Vision |" -> "Artifact Section 1 1 1 1 1 14 1 Introduction |" [style=solid];
+	"Artifact Section 1 1 1 1 1 14 1 Introduction |" -> "Artifact Section 1 1 1 1 1 14 2 Positioning |" [style=solid];
+	"Artifact Section 1 1 1 1 1 14 2 Positioning |" -> "Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt" [style=solid];
+	"Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt" -> "Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt" [style=solid];
+	"Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt" -> "Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |" [style=solid];
+	"Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |" -> "Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt" [style=solid];
+	"Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt" -> "Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt" [style=solid];
+	"Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt" -> "Artifact Section 1 1 1 1 1 14 4 Product Overview |" [style=solid];
+	"Artifact Section 1 1 1 1 1 14 4 Product Overview |" -> "Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt" [style=solid];
+	"Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt" -> "Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt" [style=solid];
+	"Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt" -> "Artifact End 1 1 1 1 1 14 0 Vision |" [style=solid];
+    
+	"Artifact Start 1 1 1 1 1 14 0 Vision |" [shape=ellipse,label="Start Vision",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 1 1 1 1 14 0 Vision |" [shape=ellipse,label="End Vision",fillcolor =royalblue3,style=filled];
+	
+	
+	"Artifact Section 1 1 1 1 1 14 1 Introduction |" [
+    		shape = component,
+    		label = "1. Introduction",
+    		margin="0.11,0.11",	   	
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+	
+	"Artifact Section 1 1 1 1 1 14 2 Positioning |" [
+    		shape = component,
+    		label = "2. Positioning",
+    		margin="0.11,0.11",	   	
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  		];	
+	"Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt" [
+    		shape = box,
+    		label = "2.1 Problem Statement",
+    		margin="0.11,0.11",	   
+			URL = "./Templates/problemStatement.txt",			
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];
+	"Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt" [
+    		shape = box,
+    		label = "2.2 Product Position Statement",
+    		margin="0.11,0.11",
+			URL = "./Templates/productPositionStatement.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];			
+	"Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |" [
+    		shape = component,
+    		label = "3. Stakeholder Descriptions",
+    		margin="0.11,0.11",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  		];	
+	"Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt" [
+    		shape = box,
+    		label = "3.1 Stakeholder Summary",
+    		margin="0.11,0.11",
+			URL = "./Templates/stakeholderSummary.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];
+    "Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt" [
+    		shape = box,
+    		label = "3.2 User Environment",
+    		margin="0.11,0.11",
+			URL = "./Templates/userEnvironment.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];			
+	"Artifact Section 1 1 1 1 1 14 4 Product Overview |" [
+    		shape = component,
+    		label = "4. Product Overview",
+    		margin="0.11,0.11",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12  		 
+  		];	
+		
+	"Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt" [
+    		shape = box,
+    		label = "4.1 Needs and Features",
+    		margin="0.11,0.11",
+			URL = "./Templates/needsAndFeatures.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+	"Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt" [
+    		shape = component,
+    		label = "5. Other Product Requirements",
+    		margin="0.11,0.11",
+			URL = "./Templates/otherProductRequirements.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+		
+	
+}

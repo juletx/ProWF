@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="margin" attr.type="string" for="node" id="margin"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">312.26642</data>
+<data key="y">410.59726</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">10.739456</data>
+<data key="y">363.3234</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">5.5000153</data>
+<data key="y">-182.1249</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">60.094986</data>
+<data key="y">350.01657</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">152.6526</data>
+<data key="y">367.90646</data>
+</node>
+<node id="Elaboration">
+<data key="label">Elaboration</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-302.59253</data>
+<data key="y">-49.64561</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">332.10236</data>
+<data key="y">-157.76189</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">382.9212</data>
+<data key="y">-338.70514</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-15.91423</data>
+<data key="y">-119.091225</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">72.72652</data>
+<data key="y">9.20522</data>
+</node>
+<node id="Phase Start 1 2 0 0 0 0 0 Elaboration |">
+<data key="label">Start Elaboration</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-116.67595</data>
+<data key="y">219.51125</data>
+</node>
+<node id="Phase Activity 1 2 1 0 0 0 0 Identify and Refine Requirements |">
+<data key="label">Identify and Refine Requirements</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./IdentifyAndRefineRequirements/identifyAndRefineRequirements.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">177.77974</data>
+<data key="y">25.473164</data>
+</node>
+<node id="Phase Activity 1 2 2 0 0 0 0 Plan and Manage Iteration |">
+<data key="label">Plan and Manage Iteration</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./PlanAndManageIteration/planAndManageIteration.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-169.52275</data>
+<data key="y">100.87014</data>
+</node>
+<node id="Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1">
+<data key="label">Join</data>
+<data key="shape">diamond</data>
+<data key="fillcolor">white</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-128.35143</data>
+<data key="y">75.09292</data>
+</node>
+<node id="Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |">
+<data key="label">Develop the Architecture</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./DevelopTheArchitecture/developTheArchitecture.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">21.683914</data>
+<data key="y">-213.34245</data>
+</node>
+<node id="Phase Activity 1 2 4 0 0 0 0 Ongoing Tasks |">
+<data key="label">Ongoing Tasks</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./OngoingTasks/ongoingTasks.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-265.92657</data>
+<data key="y">-364.08694</data>
+</node>
+<node id="Phase Activity 1 2 5 0 0 0 0 Develop Solution Increment |">
+<data key="label">Develop Solution Increment</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./DevelopSolutionIncrement/developSolutionIncrement.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-68.57701</data>
+<data key="y">71.80959</data>
+</node>
+<node id="Phase Join 1 2 0 0 0 0 0 Test access | 2 1">
+<data key="label">Join</data>
+<data key="shape">diamond</data>
+<data key="fillcolor">white</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-140.96162</data>
+<data key="y">-5.6032515</data>
+</node>
+<node id="Phase Activity 1 2 6 0 0 0 0 Test Solution |">
+<data key="label">Test Solution</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./TestSolution/testSolution.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-298.83997</data>
+<data key="y">-286.60413</data>
+</node>
+<node id="Phase End 1 2 0 0 0 0 0 Elaboration |">
+<data key="label">End Elaboration</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-21.10521</data>
+<data key="y">-276.84036</data>
+</node>
+<edge id="228" source="Phase Start 1 2 0 0 0 0 0 Elaboration |" target="Phase Activity 1 2 1 0 0 0 0 Identify and Refine Requirements |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="229" source="Phase Start 1 2 0 0 0 0 0 Elaboration |" target="Phase Activity 1 2 2 0 0 0 0 Plan and Manage Iteration |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="230" source="Phase Activity 1 2 1 0 0 0 0 Identify and Refine Requirements |" target="Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="231" source="Phase Activity 1 2 2 0 0 0 0 Plan and Manage Iteration |" target="Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="232" source="Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1" target="Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="233" source="Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |" target="Phase Activity 1 2 4 0 0 0 0 Ongoing Tasks |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="234" source="Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |" target="Phase Activity 1 2 5 0 0 0 0 Develop Solution Increment |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="235" source="Phase Activity 1 2 4 0 0 0 0 Ongoing Tasks |" target="Phase Join 1 2 0 0 0 0 0 Test access | 2 1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="236" source="Phase Activity 1 2 5 0 0 0 0 Develop Solution Increment |" target="Phase Join 1 2 0 0 0 0 0 Test access | 2 1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="237" source="Phase Join 1 2 0 0 0 0 0 Test access | 2 1" target="Phase Activity 1 2 6 0 0 0 0 Test Solution |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="238" source="Phase Activity 1 2 6 0 0 0 0 Test Solution |" target="Phase End 1 2 0 0 0 0 0 Elaboration |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

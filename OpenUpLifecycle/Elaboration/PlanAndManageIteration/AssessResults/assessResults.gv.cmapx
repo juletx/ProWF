@@ -1,0 +1,5 @@
+<map id="assessResults" name="assessResults">
+<area shape="rect" id="node2" href="./Artifacts/WorkItemsList/workItemsList.html" title="Work Items List" alt="" coords="54,136,184,184"/>
+<area shape="rect" id="node3" href="./Artifacts/ProjectPlan/projectPlan.html" title="Project Plan" alt="" coords="66,232,172,280"/>
+<area shape="rect" id="node4" href="./Artifacts/IterationPlan/iterationPlan.html" title="Iteration Plan" alt="" coords="63,328,175,376"/>
+</map>

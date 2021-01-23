@@ -1,0 +1,5 @@
+<map id="identifyAndRefineRequirements" name="identifyAndRefineRequirements">
+<area shape="rect" id="node2" href="./FindAndOutlineRequirements/findAndOutlineRequirements.html" title="&lt;&lt;Analyst&gt;&gt; \n Find and Outline Requirements" alt="" coords="5,136,245,192"/>
+<area shape="rect" id="node3" href="./DetailRequirements/detailRequirements.html" title="&lt;&lt;Analyst&gt;&gt; \n Detail Requirements" alt="" coords="269,136,437,192"/>
+<area shape="rect" id="node5" href="./CreateTestCases/createTestCases.html" title="&lt;&lt;Tester&gt;&gt; \n Create Test Cases" alt="" coords="159,336,318,392"/>
+</map>

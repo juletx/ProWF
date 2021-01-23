@@ -1,0 +1,3 @@
+[List any issues to be solved during the iteration. Update status when new issues are reported during the daily meetings]
+
+Issue | Status | Notes

@@ -1,0 +1,851 @@
+; Mon Jul 06 13:31:01 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_1] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_10] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_100] of  data
+
+	(_key "x")
+	(Text "-131.66171"))
+
+([data_101] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_102] of  data
+
+	(_key "shape")
+	(Text "note"))
+
+([data_103] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_104] of  data
+
+	(_key "label")
+	(Text "Work Items List"))
+
+([data_105] of  data
+
+	(_key "url")
+	(Text "./Artifacts/IterationPlan/iterationPlan.html"))
+
+([data_106] of  data
+
+	(_key "y")
+	(Text "33.951134"))
+
+([data_107] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_108] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_109] of  data
+
+	(_key "y")
+	(Text "-265.65564"))
+
+([data_11] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_110] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_111] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_112] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_113] of  data
+
+	(_key "x")
+	(Text "150.36972"))
+
+([data_114] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_115] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_116] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_117] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_118] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_119] of  data
+
+	(_key "x")
+	(Text "-164.45697"))
+
+([data_12] of  data
+
+	(_key "shape")
+	(Text "note"))
+
+([data_120] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_121] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_122] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_123] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_124] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_125] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_126] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_127] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_13] of  data
+
+	(_key "x")
+	(Text "-54.330116"))
+
+([data_14] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_15] of  data
+
+	(_key "label")
+	(Text "Iteration Plan"))
+
+([data_16] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_17] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_18] of  data
+
+	(_key "x")
+	(Text "198.7208"))
+
+([data_19] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_2] of  data
+
+	(_key "y")
+	(Text "-8.045388"))
+
+([data_20] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_21] of  data
+
+	(_key "y")
+	(Text "-308.75854"))
+
+([data_22] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_23] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([data_24] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_25] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_26] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_27] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_28] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_29] of  data
+
+	(_key "y")
+	(Text "-220.75017"))
+
+([data_3] of  data
+
+	(_key "x")
+	(Text "-404.47235"))
+
+([data_30] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_31] of  data
+
+	(_key "y")
+	(Text "516.6738"))
+
+([data_32] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_33] of  data
+
+	(_key "url")
+	(Text "./Artifacts/RiskList/riskList.html"))
+
+([data_34] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_35] of  data
+
+	(_key "y")
+	(Text "-386.05508"))
+
+([data_36] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_37] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_38] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_39] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_4] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_40] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_41] of  data
+
+	(_key "y")
+	(Text "-39.2631"))
+
+([data_42] of  data
+
+	(_key "shape")
+	(Text "note"))
+
+([data_43] of  data
+
+	(_key "x")
+	(Text "-197.01309"))
+
+([data_44] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_45] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_46] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_47] of  data
+
+	(_key "label")
+	(Text "End Plan Iteration"))
+
+([data_48] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_49] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_5] of  data
+
+	(_key "y")
+	(Text "-273.09055"))
+
+([data_50] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_51] of  data
+
+	(_key "y")
+	(Text "-15.134469"))
+
+([data_52] of  data
+
+	(_key "label")
+	(Text "Start Plan Iteration"))
+
+([data_53] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_54] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_55] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_56] of  data
+
+	(_key "y")
+	(Text "552.74524"))
+
+([data_57] of  data
+
+	(_key "x")
+	(Text "119.50338"))
+
+([data_58] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_59] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_6] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_60] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_61] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_62] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_63] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_64] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_65] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_66] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_67] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_68] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_69] of  data
+
+	(_key "x")
+	(Text "-56.700417"))
+
+([data_7] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_70] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_71] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_72] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_73] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_74] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_75] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_76] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_77] of  data
+
+	(_key "x")
+	(Text "-411.19644"))
+
+([data_78] of  data
+
+	(_key "url")
+	(Text "./Artifacts/WorkItemsList/workItemsList.html"))
+
+([data_79] of  data
+
+	(_key "x")
+	(Text "377.70175"))
+
+([data_8] of  data
+
+	(_key "x")
+	(Text "116.93569"))
+
+([data_80] of  data
+
+	(_key "y")
+	(Text "-370.29605"))
+
+([data_81] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_82] of  data
+
+	(_key "label")
+	(Text "Risk List"))
+
+([data_83] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_84] of  data
+
+	(_key "y")
+	(Text "-88.07792"))
+
+([data_85] of  data
+
+	(_key "x")
+	(Text "255.6818"))
+
+([data_86] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_87] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_88] of  data
+
+	(_key "x")
+	(Text "51.89785"))
+
+([data_89] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_9] of  data
+
+	(_key "y")
+	(Text "334.53952"))
+
+([data_90] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_91] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_92] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_93] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_94] of  data
+
+	(_key "y")
+	(Text "537.21716"))
+
+([data_95] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_96] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_97] of  data
+
+	(_key "label")
+	(Text "Plan Iteration"))
+
+([data_98] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_99] of  data
+
+	(_key "x")
+	(Text "149.02017"))
+
+([edge_0] of  edge
+
+	(_id "78")
+	(_source "Task Artifact 1 1 2 1 5 8 0 Risk List |")
+	(_target "Task End 1 1 2 1 5 0 0 Plan Iteration |")
+	(dataSlot [data_123]))
+
+([edge_1] of  edge
+
+	(_id "77")
+	(_source "Task Artifact 1 1 2 1 5 9 0 Work Items List |")
+	(_target "Task Artifact 1 1 2 1 5 8 0 Risk List |")
+	(dataSlot [data_76]))
+
+([edge_2] of  edge
+
+	(_id "75")
+	(_source "Task Start 1 1 2 1 5 0 0 Plan Iteration |")
+	(_target "Task Artifact 1 1 2 1 5 6 0 Iteration Plan |")
+	(dataSlot [data_38]))
+
+([edge_3] of  edge
+
+	(_id "76")
+	(_source "Task Artifact 1 1 2 1 5 6 0 Iteration Plan |")
+	(_target "Task Artifact 1 1 2 1 5 9 0 Work Items List |")
+	(dataSlot [data_46]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_2])
+	(nodeSlot [node_0]))
+
+([key_0] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([key_1] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_10] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_11] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([key_12] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([key_13] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([key_2] of  key
+
+	(_attr.name "url")
+	(_attr.type "string")
+	(_for "node")
+	(_id "url"))
+
+([key_3] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_4] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_5] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_6] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_7] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([key_8] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([key_9] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([node_0] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_74]))
+
+([node_1] of  node
+
+	(_id "Task Artifact 1 1 2 1 5 8 0 Risk List |")
+	(dataSlot [data_82]))
+
+([node_10] of  node
+
+	(_id "label")
+	(dataSlot [data_90]))
+
+([node_11] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_20]))
+
+([node_12] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_72]))
+
+([node_13] of  node
+
+	(_id "Task End 1 1 2 1 5 0 0 Plan Iteration |")
+	(dataSlot [data_47]))
+
+([node_14] of  node
+
+	(_id "Task Start 1 1 2 1 5 0 0 Plan Iteration |")
+	(dataSlot [data_52]))
+
+([node_2] of  node
+
+	(_id "Arial")
+	(dataSlot [data_61]))
+
+([node_3] of  node
+
+	(_id "Task Artifact 1 1 2 1 5 9 0 Work Items List |")
+	(dataSlot [data_104]))
+
+([node_4] of  node
+
+	(_id "16")
+	(dataSlot [data_23]))
+
+([node_5] of  node
+
+	(_id "Plan Iteration")
+	(dataSlot [data_97]))
+
+([node_6] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_6]))
+
+([node_7] of  node
+
+	(_id "Task Artifact 1 1 2 1 5 6 0 Iteration Plan |")
+	(dataSlot [data_15]))
+
+([node_8] of  node
+
+	(_id "fontname")
+	(dataSlot [data_110]))
+
+([node_9] of  node
+
+	(_id "t")
+	(dataSlot [data_122]))

@@ -1,0 +1,4 @@
+[A brief description of how to evaluate whether the high-level objectives were met. Follow exmples:
+•	97% of system-level test cases passed.
+•	Walkthrough of iteration build with Departments X and Y received favorable response.
+•	Favorable response to technical demo. ]

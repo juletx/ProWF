@@ -1,0 +1,21 @@
+digraph outlineTheArchitecture	 {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Outline The Architecture",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+	
+    "Task Start 1 1 4 1 3 0 0 Outline The Architecture |" -> "Task Artifact 1 1 4 1 3 1 0 Architecture Notebook |";
+	"Task Artifact 1 1 4 1 3 1 0 Architecture Notebook |" -> "Task End 1 1 4 1 3 0 0 Outline The Architecture |";
+	
+	"Task Start 1 1 4 1 3 0 0 Outline The Architecture |" [shape=ellipse,label="Start Outline The Architecture",fillcolor =royalblue3,style=filled];
+	"Task End 1 1 4 1 3 0 0 Outline The Architecture |" [shape=ellipse,label="End Outline The Architecture",fillcolor =royalblue3,style=filled];
+	
+		
+	"Task Artifact 1 1 4 1 3 1 0 Architecture Notebook |" [shape=note,label="Architecture Notebook",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/ArchitectureNotebook/architectureNotebook.html"];
+
+	
+	
+}

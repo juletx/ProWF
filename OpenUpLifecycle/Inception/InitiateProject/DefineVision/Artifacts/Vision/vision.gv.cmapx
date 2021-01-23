@@ -1,0 +1,8 @@
+<map id="vision" name="vision">
+<area shape="rect" id="node4" href="./Templates/problemStatement.txt" title="2.1 Problem Statement" alt="" coords="33,328,216,376"/>
+<area shape="rect" id="node5" href="./Templates/productPositionStatement.txt" title="2.2 Product Position Statement" alt="" coords="5,424,244,472"/>
+<area shape="rect" id="node7" href="./Templates/stakeholderSummary.txt" title="3.1 Stakeholder Summary" alt="" coords="23,616,226,664"/>
+<area shape="rect" id="node8" href="./Templates/userEnvironment.txt" title="3.2 User Environment" alt="" coords="39,712,210,760"/>
+<area shape="rect" id="node10" href="./Templates/needsAndFeatures.txt" title="4.1 Needs and Features" alt="" coords="29,904,220,952"/>
+<area shape="rect" id="node11" href="./Templates/otherProductRequirements.txt" title="5. Other Product Requirements" alt="" coords="7,1000,243,1048"/>
+</map>

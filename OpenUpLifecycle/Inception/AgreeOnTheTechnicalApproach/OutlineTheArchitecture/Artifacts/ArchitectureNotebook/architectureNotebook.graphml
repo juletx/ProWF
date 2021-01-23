@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="margin" attr.type="string" for="node" id="margin"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<key attr.name="fontcolor" attr.type="string" for="node" id="fontcolor"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">331.22415</data>
+<data key="y">-41.464165</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">86.840614</data>
+<data key="y">-36.232414</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">290.19223</data>
+<data key="y">-176.75288</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-313.5852</data>
+<data key="y">-305.74744</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">146.2775</data>
+<data key="y">159.34566</data>
+</node>
+<node id="Architecture Notebook">
+<data key="label">Architecture Notebook</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">86.78672</data>
+<data key="y">327.62115</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-396.4946</data>
+<data key="y">253.98775</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-498.94034</data>
+<data key="y">119.751045</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">36.296913</data>
+<data key="y">223.20973</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-308.38455</data>
+<data key="y">-527.9217</data>
+</node>
+<node id="Artifact Start 1 1 4 1 3 1 0 Architecture Notebook |">
+<data key="label">Start Architecture Notebook</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">159.45486</data>
+<data key="y">212.22292</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 1 Purpose | Templates/ArchitectureNotebook/Purpose.txt">
+<data key="label">1. Purpose</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/Purpose.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-56.2073</data>
+<data key="y">-528.0195</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 2 Architectural goals and philosophy | Templates/ArchitectureNotebook/ArchitecturalGoalsAndPhilosophy.txt">
+<data key="label">2. Architectural goals and philosophy</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/ArchitecturalGoalsAndPhilosophy.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">337.34116</data>
+<data key="y">41.396065</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 3 Assumptions and dependencies | Templates/ArchitectureNotebook/AssumptionsAndDependencies.txt">
+<data key="label">3. Assumptions and dependencies</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/AssumptionsAndDependencies.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-203.79617</data>
+<data key="y">-125.16558</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 4 Architecturally significant requirements | Templates/ArchitectureNotebook/ArchitecturallySignificantRequirements.txt">
+<data key="label">4. Architecturally significant requirements</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/ArchitecturallySignificantRequirements.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-45.1155</data>
+<data key="y">-371.96667</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 5 Decisions, constraints, and justifications | Templates/ArchitectureNotebook/DecisionsConstraintsAndJustifications.txt">
+<data key="label">5. Decisions, constraints, and justifications</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/DecisionsConstraintsAndJustifications.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">267.223</data>
+<data key="y">381.78223</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 6 Architectural Mechanisms | Templates/ArchitectureNotebook/ArchitecturalMechanisms.txt">
+<data key="label">6. Architectural Mechanisms</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/ArchitecturalMechanisms.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-147.84387</data>
+<data key="y">-180.27846</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 7 Key abstractions | Templates/ArchitectureNotebook/KeyAbstractions.txt">
+<data key="label">7. Key abstractions</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/KeyAbstractions.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-88.096</data>
+<data key="y">13.530038</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 8 Layers or architectural framework | Templates/ArchitectureNotebook/LayersOrArchitecturalFramework.txt">
+<data key="label">8. Layers or architectural framework</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/LayersOrArchitecturalFramework.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-315.39316</data>
+<data key="y">111.932014</data>
+</node>
+<node id="Artifact SectionWT 1 1 4 1 3 1 9 Architectural views | Templates/ArchitectureNotebook/ArchitecturalViews.txt">
+<data key="label">9. Architectural views</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./Templates/ArchitecturalViews.txt</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">419.56375</data>
+<data key="y">358.0407</data>
+</node>
+<node id="Artifact End 1 1 4 1 3 1 0 Architecture Notebook |">
+<data key="label">End Architecture Notebook</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">212.65573</data>
+<data key="y">90.72944</data>
+</node>
+<edge id="129" source="Artifact Start 1 1 4 1 3 1 0 Architecture Notebook |" target="Artifact SectionWT 1 1 4 1 3 1 1 Purpose | Templates/ArchitectureNotebook/Purpose.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="130" source="Artifact SectionWT 1 1 4 1 3 1 1 Purpose | Templates/ArchitectureNotebook/Purpose.txt" target="Artifact SectionWT 1 1 4 1 3 1 2 Architectural goals and philosophy | Templates/ArchitectureNotebook/ArchitecturalGoalsAndPhilosophy.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="131" source="Artifact SectionWT 1 1 4 1 3 1 2 Architectural goals and philosophy | Templates/ArchitectureNotebook/ArchitecturalGoalsAndPhilosophy.txt" target="Artifact SectionWT 1 1 4 1 3 1 3 Assumptions and dependencies | Templates/ArchitectureNotebook/AssumptionsAndDependencies.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="132" source="Artifact SectionWT 1 1 4 1 3 1 3 Assumptions and dependencies | Templates/ArchitectureNotebook/AssumptionsAndDependencies.txt" target="Artifact SectionWT 1 1 4 1 3 1 4 Architecturally significant requirements | Templates/ArchitectureNotebook/ArchitecturallySignificantRequirements.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="133" source="Artifact SectionWT 1 1 4 1 3 1 4 Architecturally significant requirements | Templates/ArchitectureNotebook/ArchitecturallySignificantRequirements.txt" target="Artifact SectionWT 1 1 4 1 3 1 5 Decisions, constraints, and justifications | Templates/ArchitectureNotebook/DecisionsConstraintsAndJustifications.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="134" source="Artifact SectionWT 1 1 4 1 3 1 5 Decisions, constraints, and justifications | Templates/ArchitectureNotebook/DecisionsConstraintsAndJustifications.txt" target="Artifact SectionWT 1 1 4 1 3 1 6 Architectural Mechanisms | Templates/ArchitectureNotebook/ArchitecturalMechanisms.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="135" source="Artifact SectionWT 1 1 4 1 3 1 6 Architectural Mechanisms | Templates/ArchitectureNotebook/ArchitecturalMechanisms.txt" target="Artifact SectionWT 1 1 4 1 3 1 7 Key abstractions | Templates/ArchitectureNotebook/KeyAbstractions.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="136" source="Artifact SectionWT 1 1 4 1 3 1 7 Key abstractions | Templates/ArchitectureNotebook/KeyAbstractions.txt" target="Artifact SectionWT 1 1 4 1 3 1 8 Layers or architectural framework | Templates/ArchitectureNotebook/LayersOrArchitecturalFramework.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="137" source="Artifact SectionWT 1 1 4 1 3 1 8 Layers or architectural framework | Templates/ArchitectureNotebook/LayersOrArchitecturalFramework.txt" target="Artifact SectionWT 1 1 4 1 3 1 9 Architectural views | Templates/ArchitectureNotebook/ArchitecturalViews.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="138" source="Artifact SectionWT 1 1 4 1 3 1 9 Architectural views | Templates/ArchitectureNotebook/ArchitecturalViews.txt" target="Artifact End 1 1 4 1 3 1 0 Architecture Notebook |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

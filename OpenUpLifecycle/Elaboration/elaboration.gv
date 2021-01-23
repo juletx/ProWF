@@ -1,0 +1,95 @@
+digraph elaboration {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Elaboration",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+	"Phase Start 1 2 0 0 0 0 0 Elaboration |" -> "Phase Activity 1 2 1 0 0 0 0 Identify and Refine Requirements |";
+	"Phase Start 1 2 0 0 0 0 0 Elaboration |" -> "Phase Activity 1 2 2 0 0 0 0 Plan and Manage Iteration |";
+	"Phase Activity 1 2 1 0 0 0 0 Identify and Refine Requirements |" -> "Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1";
+	"Phase Activity 1 2 2 0 0 0 0 Plan and Manage Iteration |" -> "Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1";
+	"Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1" -> "Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |";
+	"Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |" -> "Phase Activity 1 2 4 0 0 0 0 Ongoing Tasks |";
+	"Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |" -> "Phase Activity 1 2 5 0 0 0 0 Develop Solution Increment |";
+	"Phase Activity 1 2 4 0 0 0 0 Ongoing Tasks |" -> "Phase Join 1 2 0 0 0 0 0 Test access | 2 1";
+	"Phase Activity 1 2 5 0 0 0 0 Develop Solution Increment |" -> "Phase Join 1 2 0 0 0 0 0 Test access | 2 1";
+	"Phase Join 1 2 0 0 0 0 0 Test access | 2 1" -> "Phase Activity 1 2 6 0 0 0 0 Test Solution |";
+	"Phase Activity 1 2 6 0 0 0 0 Test Solution |" -> "Phase End 1 2 0 0 0 0 0 Elaboration |" ;
+    
+	"Phase Start 1 2 0 0 0 0 0 Elaboration |" [shape=ellipse,label="Start Elaboration",fillcolor =royalblue3,style=filled];
+	"Phase End 1 2 0 0 0 0 0 Elaboration |" [shape=ellipse,label="End Elaboration",fillcolor =royalblue3,style=filled];
+	"Phase Join 1 2 0 0 0 0 0 Architecture access | 2 1" [shape=diamond,label="Join",fillcolor=white,style=filled];
+	"Phase Join 1 2 0 0 0 0 0 Test access | 2 1" [shape=diamond,label="Join",fillcolor=white,style=filled];
+	
+	"Phase Activity 1 2 1 0 0 0 0 Identify and Refine Requirements |" [
+    		shape = box3d,
+    		label = "Identify and Refine Requirements",
+    		margin="0.11,0.11",
+	   		URL = "./IdentifyAndRefineRequirements/identifyAndRefineRequirements.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];
+	
+	"Phase Activity 1 2 2 0 0 0 0 Plan and Manage Iteration |" [
+    		shape = box3d,
+    		label = "Plan and Manage Iteration",
+    		margin="0.11,0.11",
+	   		URL = "./PlanAndManageIteration/planAndManageIteration.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];
+
+	"Phase Activity 1 2 3 0 0 0 0 Develop the Architecture |" [
+    		shape = box3d,
+    		label = "Develop the Architecture",
+    		margin="0.11,0.11",
+	   		URL = "./DevelopTheArchitecture/developTheArchitecture.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+	"Phase Activity 1 2 4 0 0 0 0 Ongoing Tasks |" [
+    		shape = box3d,
+    		label = "Ongoing Tasks",
+    		margin="0.11,0.11",
+	   		URL = "./OngoingTasks/ongoingTasks.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+	"Phase Activity 1 2 5 0 0 0 0 Develop Solution Increment |" [
+    		shape = box3d,
+    		label = "Develop Solution Increment",
+    		margin="0.11,0.11",
+	   		URL = "./DevelopSolutionIncrement/developSolutionIncrement.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+	"Phase Activity 1 2 6 0 0 0 0 Test Solution |" [
+    		shape = box3d,
+    		label = "Test Solution",
+    		margin="0.11,0.11",
+	   		URL = "./TestSolution/testSolution.html",	   	
+    		fillcolor = "#DCDCDC",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+}

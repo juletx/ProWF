@@ -1,0 +1,104 @@
+digraph glossary {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Glossary",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+ 
+	"Artifact Start 1 1 3 1 1 10 0 Glossary |" -> "Artifact SectionWT 1 1 3 1 1 10 1 Introduction | Templates/Glossary/Introduction.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 1 1 10 1 Introduction | Templates/Glossary/Introduction.txt" -> "Artifact SectionWT 1 1 3 1 1 10 1.1 Purpose | Templates/Glossary/Purpose.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 1 1 10 1.1 Purpose | Templates/Glossary/Purpose.txt" -> "Artifact SectionWT 1 1 3 1 1 10 1.2 Scope | Templates/Glossary/Scope.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 1 1 10 1.2 Scope | Templates/Glossary/Scope.txt" -> "Artifact SectionWT 1 1 3 1 1 10 1.3 References | Templates/Glossary/References.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 1 1 10 1.3 References | Templates/Glossary/References.txt" -> "Artifact SectionWT 1 1 3 1 1 10 1.4 Overview | Templates/Glossary/Overview.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 1 1 10 1.4 Overview | Templates/Glossary/Overview.txt" -> "Artifact SectionWT 1 1 3 1 1 10 2 Definitions | Templates/Glossary/Definitions.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 1 1 10 2 Definitions | Templates/Glossary/Definitions.txt" -> "Artifact SectionWT 1 1 3 1 1 10 3 UML Stereotypes | Templates/Glossary/UMLStereotypes.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 1 1 10 3 UML Stereotypes | Templates/Glossary/UMLStereotypes.txt" -> "Artifact End 1 1 3 1 1 10 0 Glossary |" [style=solid];
+    
+	"Artifact Start 1 1 3 1 1 10 0 Glossary |" [shape=ellipse,label="Start Glossary",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 1 3 1 1 10 0 Glossary |" [shape=ellipse,label="End Glossary",fillcolor =royalblue3,style=filled];
+	
+	
+	"Artifact SectionWT 1 1 3 1 1 10 1 Introduction | Templates/Glossary/Introduction.txt" [
+    		shape = component,
+    		label = "1. Introduction",
+    		margin="0.11,0.11",
+			URL = "./Templates/Introduction.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+	   		 
+  		];	
+	
+	"Artifact SectionWT 1 1 3 1 1 10 1.1 Purpose | Templates/Glossary/Purpose.txt" [
+    		shape = box,
+    		label = "1.1 Purpose",
+    		margin="0.11,0.11",
+			URL = "./Templates/Purpose.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+	"Artifact SectionWT 1 1 3 1 1 10 1.2 Scope | Templates/Glossary/Scope.txt" [
+    		shape = box,
+    		label = "1.2 Scope",
+    		margin="0.11,0.11",
+			URL = "./Templates/Scope.txt",			
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];
+	"Artifact SectionWT 1 1 3 1 1 10 1.3 References | Templates/Glossary/References.txt" [
+    		shape = box,
+    		label = "1.3 References",
+    		margin="0.11,0.11",
+			URL = "./Templates/References.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];			
+	"Artifact SectionWT 1 1 3 1 1 10 1.4 Overview | Templates/Glossary/Overview.txt" [
+    		shape = box,
+    		label = "1.4 Overview",
+    		margin="0.11,0.11",
+			URL = "./Templates/Overview.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+	"Artifact SectionWT 1 1 3 1 1 10 2 Definitions | Templates/Glossary/Definitions.txt" [
+    		shape = component,
+    		label = "2. Definitions",
+    		margin="0.11,0.11",
+			URL = "./Templates/Definitions.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];
+    "Artifact SectionWT 1 1 3 1 1 10 3 UML Stereotypes | Templates/Glossary/UMLStereotypes.txt" [
+    		shape = component,
+    		label = "3. UML Stereotypes",
+    		margin="0.11,0.11",
+			URL = "./Templates/UMLStereotypes.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];			
+
+		
+}

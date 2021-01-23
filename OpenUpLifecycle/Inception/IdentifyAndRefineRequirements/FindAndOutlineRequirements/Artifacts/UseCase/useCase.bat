@@ -1,0 +1,1 @@
+dot -Gcharset=latin1 -Tgif -Tcmapx  useCase.gv -O useCase.gif 

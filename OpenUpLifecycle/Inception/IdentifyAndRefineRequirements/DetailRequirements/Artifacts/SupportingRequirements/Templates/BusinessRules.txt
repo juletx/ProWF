@@ -1,0 +1,8 @@
+[Business rules are statements that define or constrain some aspect of the business. Business rules are often represented as production rules when they are meant to be directly executed by an IT System: a production rule is an independent statement of programming logic that specifies the execution of one or more actions in the case that its conditions are satisfied. Production Rules define the operation semantic for the system in a technologic independent way. They constrain the behavior expressed in system use cases.
+Organize this document on rule classes, a high level grouping of candidate or actual rules about one business concept with a specific kind of logic processing, example: Driver Risk Assessment Rules or Customer Validation Rules.]
+
+5.1	<Rule class name>
+5.1.1	<Rule name and ID>
+
+[The description defines the rule. It can be made in natural language typically following a decision table or a pattern like:  if [condition-list] then [action-list], example: 
+If there are at least 3 items of the same type in the customer shopping cart and each item’s value is greater than $30 then give to the customer a voucher whose value is 10% of the cheapest item.]

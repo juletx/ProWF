@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="margin" attr.type="string" for="node" id="margin"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<key attr.name="fontcolor" attr.type="string" for="node" id="fontcolor"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-260.83032</data>
+<data key="y">-214.86526</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-246.6331</data>
+<data key="y">250.33267</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-147.59656</data>
+<data key="y">-397.64084</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-253.72191</data>
+<data key="y">-18.675814</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">322.31796</data>
+<data key="y">246.54074</data>
+</node>
+<node id="Vision">
+<data key="label">Vision</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-320.3494</data>
+<data key="y">475.1566</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">224.41261</data>
+<data key="y">-81.599304</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-350.40558</data>
+<data key="y">-394.91086</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-293.8755</data>
+<data key="y">194.72977</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">498.70834</data>
+<data key="y">392.68234</data>
+</node>
+<node id="Artifact Start 1 1 1 1 1 14 0 Vision |">
+<data key="label">Start Vision</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">502.64438</data>
+<data key="y">365.53616</data>
+</node>
+<node id="Artifact Section 1 1 1 1 1 14 1 Introduction |">
+<data key="label">1. Introduction</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">503.58444</data>
+<data key="y">-105.050354</data>
+</node>
+<node id="Artifact Section 1 1 1 1 1 14 2 Positioning |">
+<data key="label">2. Positioning</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">383.8251</data>
+<data key="y">132.07309</data>
+</node>
+<node id="Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt">
+<data key="label">2.1 Problem Statement</data>
+<data key="shape">box</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/problemStatement.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-195.30052</data>
+<data key="y">552.37866</data>
+</node>
+<node id="Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt">
+<data key="label">2.2 Product Position Statement</data>
+<data key="shape">box</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/productPositionStatement.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-180.92244</data>
+<data key="y">242.92337</data>
+</node>
+<node id="Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |">
+<data key="label">3. Stakeholder Descriptions</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-239.39168</data>
+<data key="y">-197.9473</data>
+</node>
+<node id="Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt">
+<data key="label">3.1 Stakeholder Summary</data>
+<data key="shape">box</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/stakeholderSummary.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">132.5027</data>
+<data key="y">-392.76407</data>
+</node>
+<node id="Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt">
+<data key="label">3.2 User Environment</data>
+<data key="shape">box</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/userEnvironment.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-90.66865</data>
+<data key="y">-137.36008</data>
+</node>
+<node id="Artifact Section 1 1 1 1 1 14 4 Product Overview |">
+<data key="label">4. Product Overview</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-312.893</data>
+<data key="y">-82.630615</data>
+</node>
+<node id="Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt">
+<data key="label">4.1 Needs and Features</data>
+<data key="shape">box</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/needsAndFeatures.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">502.0544</data>
+<data key="y">-268.1912</data>
+</node>
+<node id="Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt">
+<data key="label">5. Other Product Requirements</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Templates/otherProductRequirements.txt</data>
+<data key="fontcolor">blue</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">184.80312</data>
+<data key="y">-162.38474</data>
+</node>
+<node id="Artifact End 1 1 1 1 1 14 0 Vision |">
+<data key="label">End Vision</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-362.26437</data>
+<data key="y">-398.33298</data>
+</node>
+<edge id="260" source="Artifact Start 1 1 1 1 1 14 0 Vision |" target="Artifact Section 1 1 1 1 1 14 1 Introduction |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="261" source="Artifact Section 1 1 1 1 1 14 1 Introduction |" target="Artifact Section 1 1 1 1 1 14 2 Positioning |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="262" source="Artifact Section 1 1 1 1 1 14 2 Positioning |" target="Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="263" source="Artifact SectionWT 1 1 1 1 1 14 2.1 Problem Statement | Templates/Vision/problemStatement.txt" target="Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="264" source="Artifact SectionWT 1 1 1 1 1 14 2.2 Product Position Statement | Templates/Vision/productPositionStatement.txt" target="Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="265" source="Artifact Section 1 1 1 1 1 14 3 Stakeholder Descriptions |" target="Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="266" source="Artifact SectionWT 1 1 1 1 1 14 3.1 Stakeholder Summary | Templates/Vision/stakeholderSummary.txt" target="Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="267" source="Artifact SectionWT 1 1 1 1 1 14 3.2 User Environment | Templates/Vision/userEnvironment.txt" target="Artifact Section 1 1 1 1 1 14 4 Product Overview |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="268" source="Artifact Section 1 1 1 1 1 14 4 Product Overview |" target="Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="269" source="Artifact SectionWT 1 1 1 1 1 14 4.1 Needs and Features | Templates/Vision/needsAndFeatures.txt" target="Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt">
+<data key="weight">1.0</data>
+</edge>
+<edge id="270" source="Artifact SectionWT 1 1 1 1 1 14 5 Other Product Requirements | Templates/Vision/otherProductRequirements.txt" target="Artifact End 1 1 1 1 1 14 0 Vision |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

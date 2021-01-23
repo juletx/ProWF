@@ -1,0 +1,96 @@
+digraph projectPlan {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Project Plan",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Artifact Start 1 1 2 2 5 7 0 Project Plan |" -> "Artifact SectionWT 1 1 2 2 5 7 1 Introduction | Templates/ProjectPlan/Introduction.txt" [style=solid];
+	"Artifact SectionWT 1 1 2 2 5 7 1 Introduction | Templates/ProjectPlan/Introduction.txt" -> "Artifact SectionWT 1 1 2 2 5 7 2 Project organization | Templates/ProjectPlan/ProjectOrganization.txt" [style=solid];
+	"Artifact SectionWT 1 1 2 2 5 7 2 Project organization | Templates/ProjectPlan/ProjectOrganization.txt" -> "Artifact SectionWT 1 1 2 2 5 7 3 Project practices and measurements | Templates/ProjectPlan/ProjectPracticesAndMeasurements.txt" [style=solid];
+	"Artifact SectionWT 1 1 2 2 5 7 3 Project practices and measurements | Templates/ProjectPlan/ProjectPracticesAndMeasurements.txt" -> "Artifact SectionWT 1 1 2 2 5 7 4 Project milestones and objectives | Templates/ProjectPlan/ProjectMilestonesAndObjectives.txt" [style=solid];
+	"Artifact SectionWT 1 1 2 2 5 7 4 Project milestones and objectives | Templates/ProjectPlan/ProjectMilestonesAndObjectives.txt" -> "Artifact SectionWT 1 1 2 2 5 7 5 Deployment | Templates/ProjectPlan/Deployment.txt" [style=solid];
+	"Artifact SectionWT 1 1 2 2 5 7 5 Deployment | Templates/ProjectPlan/Deployment.txt" -> "Artifact SectionWT 1 1 2 2 5 7 6 Lessons learned | Templates/ProjectPlan/LessonsLearned.txt" [style=solid];
+	"Artifact SectionWT 1 1 2 2 5 7 6 Lessons learned | Templates/ProjectPlan/LessonsLearned.txt" -> "Artifact End 1 1 2 2 5 7 0 Project Plan |" [style=solid];
+	
+	"Artifact Start 1 1 2 2 5 7 0 Project Plan |" [shape=ellipse,label="Start Project Plan",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 1 2 2 5 7 0 Project Plan |" [shape=ellipse,label="End Project Plan",fillcolor =royalblue3,style=filled];
+	
+	
+	"Artifact SectionWT 1 1 2 2 5 7 1 Introduction | Templates/ProjectPlan/Introduction.txt" [
+    		shape = component,
+    		label = "1. Introduction",
+    		margin="0.11,0.11",	
+			URL = "./Templates/Introduction.txt",	
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+	   		 
+  	];	
+	
+	"Artifact SectionWT 1 1 2 2 5 7 2 Project organization | Templates/ProjectPlan/ProjectOrganization.txt" [
+    		shape = component,
+    		label = "2. Project organization",
+    		margin="0.11,0.11",	  
+			URL = "./Templates/ProjectOrganization.txt",	
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  	];	
+	
+	"Artifact SectionWT 1 1 2 2 5 7 3 Project practices and measurements | Templates/ProjectPlan/ProjectPracticesAndMeasurements.txt" [
+    		shape = component,
+    		label = "3. Project practices and measurements",
+    		margin="0.11,0.11",	   
+			URL = "./Templates/ProjectPracticesAndMeasurements.txt",			
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  	];
+	
+	"Artifact SectionWT 1 1 2 2 5 7 4 Project milestones and objectives | Templates/ProjectPlan/ProjectMilestonesAndObjectives.txt" [
+    		shape = component,
+    		label = "4. Project milestones and objectives",
+    		margin="0.11,0.11",
+			URL = "./Templates/ProjectMilestonesAndObjectives.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  	];		
+	
+	"Artifact SectionWT 1 1 2 2 5 7 5 Deployment | Templates/ProjectPlan/Deployment.txt" [
+    		shape = component,
+    		label = "5. Deployment",
+    		margin="0.11,0.11",
+			URL = "./Templates/Deployment.txt",	
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  	];	
+	
+	"Artifact SectionWT 1 1 2 2 5 7 6 Lessons learned | Templates/ProjectPlan/LessonsLearned.txt" [
+    		shape = component,
+    		label = "6. Lessons learned",
+    		margin="0.11,0.11",
+			URL = "./Templates/LessonsLearned.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  	];
+		
+	
+}

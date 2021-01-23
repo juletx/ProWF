@@ -1,0 +1,60 @@
+digraph planAndManageIteration {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Plan and Manage Iteration",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+	"Activity Start 1 1 2 0 0 0 0 Plan and Manage Iteration |" -> "Activity Task 1 1 2 1 5 0 0 Plan Iteration | Project Manager";
+	"Activity Start 1 1 2 0 0 0 0 Plan and Manage Iteration |" -> "Activity Task 1 1 2 2 5 0 0 Manage Iteration | Project Manager";
+	"Activity Start 1 1 2 0 0 0 0 Plan and Manage Iteration |" -> "Activity Task 1 1 2 3 5 0 0 Assess Results | Project Manager";
+    "Activity Task 1 1 2 1 5 0 0 Plan Iteration | Project Manager" -> "Activity Join 1 1 2 0 0 0 0 End access | 3 1";
+	"Activity Task 1 1 2 2 5 0 0 Manage Iteration | Project Manager" -> "Activity Join 1 1 2 0 0 0 0 End access | 3 1";
+	"Activity Task 1 1 2 3 5 0 0 Assess Results | Project Manager" -> "Activity Join 1 1 2 0 0 0 0 End access | 3 1";
+	"Activity Join 1 1 2 0 0 0 0 End access | 3 1" -> "Activity End 1 1 2 0 0 0 0 Plan and Manage Iteration |";
+    
+	"Activity Start 1 1 2 0 0 0 0 Plan and Manage Iteration |" [shape=ellipse,label="Start Plan and Manage Iteration",fillcolor =royalblue3,style=filled];
+	"Activity End 1 1 2 0 0 0 0 Plan and Manage Iteration |" [shape=ellipse,label="End Plan and Manage Iteration",fillcolor =royalblue3,style=filled];
+	"Activity Join 1 1 2 0 0 0 0 End access | 3 1" [shape=diamond,label="Join",fillcolor=white,style=filled];
+	
+		
+	"Activity Task 1 1 2 1 5 0 0 Plan Iteration | Project Manager" [
+    		shape = cds,
+    		label = "<<Project Manager>> \n Plan Iteration",
+    		margin="0.11,0.11",  
+	   		URL = "./PlanIteration/planIteration.html",			
+    		fillcolor = "#ffff80",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];	
+
+	"Activity Task 1 1 2 2 5 0 0 Manage Iteration | Project Manager" [
+    		shape = cds,
+    		label = "<<Project Manager>> \n Manage Iteration",
+    		margin="0.11,0.11",	   	
+			URL = "./ManageIteration/manageIteration.html",
+    		fillcolor = "#ffff80",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];
+		
+	"Activity Task 1 1 2 3 5 0 0 Assess Results | Project Manager" [
+    		shape = cds,
+    		label = "<<Project Manager>> \n Assess Results",
+    		margin="0.11,0.11",	 
+	   		URL = "./AssessResults/assessResults.html",			
+    		fillcolor = "#ffff80",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+	   		 
+  		];
+		
+	
+}

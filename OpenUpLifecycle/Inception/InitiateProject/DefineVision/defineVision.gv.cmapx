@@ -1,0 +1,5 @@
+<map id="defineVision" name="defineVision">
+<area shape="rect" id="node2" href="./Artifacts/Vision/vision.html" title="Vision" alt="" coords="75,136,147,184"/>
+<area shape="rect" id="node3" href="./Artifacts/Glossary/glossary.html" title="Glossary" alt="" coords="70,232,152,280"/>
+<area shape="rect" id="node4" href="./Artifacts/WorkItemsList/workItemsList.html" title="Work Items List" alt="" coords="46,328,176,376"/>
+</map>

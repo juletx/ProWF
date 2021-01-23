@@ -1,0 +1,7 @@
+<map id="findAndOutlineRequirements" name="findAndOutlineRequirements">
+<area shape="rect" id="node2" href="./Artifacts/WorkItemsList/workItemsList.html" title="Work Items List" alt="" coords="131,136,261,184"/>
+<area shape="rect" id="node3" href="./Artifacts/SupportingRequirements/supportingRequirements.html" title="Supporting Requirements" alt="" coords="97,232,295,280"/>
+<area shape="rect" id="node4" href="./Artifacts/Glossary/glossary.html" title="Glossary" alt="" coords="155,328,237,376"/>
+<area shape="rect" id="node5" href="./Artifacts/UseCase/useCase.html" title="Use Case" alt="" coords="150,424,242,472"/>
+<area shape="rect" id="node6" href="./Artifacts/UseCaseModel/useCaseModel.html" title="Use&#45;Case Model" alt="" coords="126,520,266,568"/>
+</map>

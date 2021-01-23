@@ -1,0 +1,1156 @@
+; Mon Jul 06 18:14:15 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_1] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_10] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_100] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_101] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_102] of  data
+
+	(_key "label")
+	(Text "Project Plan"))
+
+([data_103] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_104] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_105] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_106] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_107] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_108] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_109] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_11] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_110] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_111] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_112] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_113] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_114] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_115] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_116] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_117] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_118] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_119] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_12] of  data
+
+	(_key "x")
+	(Text "-379.26022"))
+
+([data_120] of  data
+
+	(_key "x")
+	(Text "-3.298089"))
+
+([data_121] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_122] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_123] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_124] of  data
+
+	(_key "y")
+	(Text "274.1455"))
+
+([data_125] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_126] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_127] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_128] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_129] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_13] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_130] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_131] of  data
+
+	(_key "y")
+	(Text "-44.01155"))
+
+([data_132] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_133] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_134] of  data
+
+	(_key "x")
+	(Text "-442.5215"))
+
+([data_135] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_136] of  data
+
+	(_key "y")
+	(Text "353.13116"))
+
+([data_137] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_138] of  data
+
+	(_key "label")
+	(Text "1. Introduction"))
+
+([data_139] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_14] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_140] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_141] of  data
+
+	(_key "y")
+	(Text "328.0371"))
+
+([data_142] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_143] of  data
+
+	(_key "y")
+	(Text "-98.032425"))
+
+([data_144] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_145] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_146] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_147] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_148] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_149] of  data
+
+	(_key "y")
+	(Text "241.57988"))
+
+([data_15] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_150] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_151] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_152] of  data
+
+	(_key "x")
+	(Text "316.14148"))
+
+([data_153] of  data
+
+	(_key "y")
+	(Text "-15.55995"))
+
+([data_154] of  data
+
+	(_key "x")
+	(Text "449.377"))
+
+([data_155] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_156] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_157] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_158] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_159] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_16] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_160] of  data
+
+	(_key "y")
+	(Text "-226.48439"))
+
+([data_161] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_162] of  data
+
+	(_key "y")
+	(Text "-523.1087"))
+
+([data_163] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_164] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_165] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_166] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_167] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_168] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_169] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_17] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_170] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_171] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_172] of  data
+
+	(_key "url")
+	(Text "./Templates/ProjectPracticesAndMeasurements.txt"))
+
+([data_173] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_174] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_175] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_176] of  data
+
+	(_key "url")
+	(Text "./Templates/Deployment.txt"))
+
+([data_177] of  data
+
+	(_key "x")
+	(Text "18.342293"))
+
+([data_178] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_18] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_19] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_2] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_20] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_21] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_22] of  data
+
+	(_key "label")
+	(Text "Start Project Plan"))
+
+([data_23] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_24] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_25] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_26] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_27] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_28] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_29] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_3] of  data
+
+	(_key "x")
+	(Text "-55.48931"))
+
+([data_30] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_31] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_32] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_33] of  data
+
+	(_key "y")
+	(Text "182.83311"))
+
+([data_34] of  data
+
+	(_key "x")
+	(Text "-59.652367"))
+
+([data_35] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_36] of  data
+
+	(_key "x")
+	(Text "1.1064521"))
+
+([data_37] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_38] of  data
+
+	(_key "x")
+	(Text "177.98462"))
+
+([data_39] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_4] of  data
+
+	(_key "x")
+	(Text "415.98468"))
+
+([data_40] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([data_41] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_42] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_43] of  data
+
+	(_key "x")
+	(Text "-49.637383"))
+
+([data_44] of  data
+
+	(_key "y")
+	(Text "-444.85413"))
+
+([data_45] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_46] of  data
+
+	(_key "url")
+	(Text "./Templates/LessonsLearned.txt"))
+
+([data_47] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_48] of  data
+
+	(_key "label")
+	(Text "2. Project organization"))
+
+([data_49] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_5] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_50] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_51] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_52] of  data
+
+	(_key "x")
+	(Text "449.72394"))
+
+([data_53] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_54] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_55] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_56] of  data
+
+	(_key "x")
+	(Text "-273.70114"))
+
+([data_57] of  data
+
+	(_key "label")
+	(Text "3. Project practices and measurements"))
+
+([data_58] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_59] of  data
+
+	(_key "url")
+	(Text "./Templates/ProjectOrganization.txt"))
+
+([data_6] of  data
+
+	(_key "x")
+	(Text "366.24683"))
+
+([data_60] of  data
+
+	(_key "y")
+	(Text "-316.31143"))
+
+([data_61] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_62] of  data
+
+	(_key "x")
+	(Text "-493.151"))
+
+([data_63] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_64] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_65] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_66] of  data
+
+	(_key "y")
+	(Text "324.29156"))
+
+([data_67] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_68] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_69] of  data
+
+	(_key "url")
+	(Text "./Templates/Introduction.txt"))
+
+([data_7] of  data
+
+	(_key "y")
+	(Text "-457.1927"))
+
+([data_70] of  data
+
+	(_key "y")
+	(Text "-313.33817"))
+
+([data_71] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_72] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_73] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_74] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_75] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_76] of  data
+
+	(_key "label")
+	(Text "End Project Plan"))
+
+([data_77] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_78] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_79] of  data
+
+	(_key "url")
+	(Text "./Templates/ProjectMilestonesAndObjectives.txt"))
+
+([data_8] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_80] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_81] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_82] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_83] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_84] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_85] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_86] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_87] of  data
+
+	(_key "label")
+	(Text "6. Lessons learned"))
+
+([data_88] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_89] of  data
+
+	(_key "x")
+	(Text "-91.044"))
+
+([data_9] of  data
+
+	(_key "y")
+	(Text "280.51593"))
+
+([data_90] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_91] of  data
+
+	(_key "y")
+	(Text "93.28172"))
+
+([data_92] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_93] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_94] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_95] of  data
+
+	(_key "label")
+	(Text "5. Deployment"))
+
+([data_96] of  data
+
+	(_key "x")
+	(Text "-347.15234"))
+
+([data_97] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_98] of  data
+
+	(_key "label")
+	(Text "4. Project milestones and objectives"))
+
+([data_99] of  data
+
+	(_key "y")
+	(Text "361.07758"))
+
+([edge_0] of  edge
+
+	(_id "25")
+	(_source "Artifact SectionWT 1 1 2 2 5 7 2 Project organization | Templates/ProjectPlan/ProjectOrganization.txt")
+	(_target "Artifact SectionWT 1 1 2 2 5 7 3 Project practices and measurements | Templates/ProjectPlan/ProjectPracticesAndMeasurements.txt")
+	(dataSlot [data_170]))
+
+([edge_1] of  edge
+
+	(_id "26")
+	(_source "Artifact SectionWT 1 1 2 2 5 7 3 Project practices and measurements | Templates/ProjectPlan/ProjectPracticesAndMeasurements.txt")
+	(_target "Artifact SectionWT 1 1 2 2 5 7 4 Project milestones and objectives | Templates/ProjectPlan/ProjectMilestonesAndObjectives.txt")
+	(dataSlot [data_158]))
+
+([edge_2] of  edge
+
+	(_id "23")
+	(_source "Artifact Start 1 1 2 2 5 7 0 Project Plan |")
+	(_target "Artifact SectionWT 1 1 2 2 5 7 1 Introduction | Templates/ProjectPlan/Introduction.txt")
+	(dataSlot [data_20]))
+
+([edge_3] of  edge
+
+	(_id "29")
+	(_source "Artifact SectionWT 1 1 2 2 5 7 6 Lessons learned | Templates/ProjectPlan/LessonsLearned.txt")
+	(_target "Artifact End 1 1 2 2 5 7 0 Project Plan |")
+	(dataSlot [data_55]))
+
+([edge_4] of  edge
+
+	(_id "28")
+	(_source "Artifact SectionWT 1 1 2 2 5 7 5 Deployment | Templates/ProjectPlan/Deployment.txt")
+	(_target "Artifact SectionWT 1 1 2 2 5 7 6 Lessons learned | Templates/ProjectPlan/LessonsLearned.txt")
+	(dataSlot [data_86]))
+
+([edge_5] of  edge
+
+	(_id "27")
+	(_source "Artifact SectionWT 1 1 2 2 5 7 4 Project milestones and objectives | Templates/ProjectPlan/ProjectMilestonesAndObjectives.txt")
+	(_target "Artifact SectionWT 1 1 2 2 5 7 5 Deployment | Templates/ProjectPlan/Deployment.txt")
+	(dataSlot [data_24]))
+
+([edge_6] of  edge
+
+	(_id "24")
+	(_source "Artifact SectionWT 1 1 2 2 5 7 1 Introduction | Templates/ProjectPlan/Introduction.txt")
+	(_target "Artifact SectionWT 1 1 2 2 5 7 2 Project organization | Templates/ProjectPlan/ProjectOrganization.txt")
+	(dataSlot [data_135]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_2])
+	(nodeSlot [node_14]))
+
+([key_0] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([key_1] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_10] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_11] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_12] of  key
+
+	(_attr.name "margin")
+	(_attr.type "string")
+	(_for "node")
+	(_id "margin"))
+
+([key_13] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_14] of  key
+
+	(_attr.name "url")
+	(_attr.type "string")
+	(_for "node")
+	(_id "url"))
+
+([key_15] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([key_2] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_3] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([key_4] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([key_5] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_6] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([key_7] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([key_8] of  key
+
+	(_attr.name "fontcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontcolor"))
+
+([key_9] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([node_0] of  node
+
+	(_id "t")
+	(dataSlot [data_35]))
+
+([node_1] of  node
+
+	(_id "Artifact SectionWT 1 1 2 2 5 7 3 Project practices and measurements | Templates/ProjectPlan/ProjectPracticesAndMeasurements.txt")
+	(dataSlot [data_57]))
+
+([node_10] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_49]))
+
+([node_11] of  node
+
+	(_id "Artifact SectionWT 1 1 2 2 5 7 1 Introduction | Templates/ProjectPlan/Introduction.txt")
+	(dataSlot [data_138]))
+
+([node_12] of  node
+
+	(_id "Artifact End 1 1 2 2 5 7 0 Project Plan |")
+	(dataSlot [data_76]))
+
+([node_13] of  node
+
+	(_id "Artifact SectionWT 1 1 2 2 5 7 4 Project milestones and objectives | Templates/ProjectPlan/ProjectMilestonesAndObjectives.txt")
+	(dataSlot [data_98]))
+
+([node_14] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_169]))
+
+([node_15] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_29]))
+
+([node_16] of  node
+
+	(_id "fontname")
+	(dataSlot [data_93]))
+
+([node_17] of  node
+
+	(_id "label")
+	(dataSlot [data_82]))
+
+([node_2] of  node
+
+	(_id "Arial")
+	(dataSlot [data_140]))
+
+([node_3] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_163]))
+
+([node_4] of  node
+
+	(_id "16")
+	(dataSlot [data_40]))
+
+([node_5] of  node
+
+	(_id "Artifact SectionWT 1 1 2 2 5 7 6 Lessons learned | Templates/ProjectPlan/LessonsLearned.txt")
+	(dataSlot [data_87]))
+
+([node_6] of  node
+
+	(_id "Artifact Start 1 1 2 2 5 7 0 Project Plan |")
+	(dataSlot [data_22]))
+
+([node_7] of  node
+
+	(_id "Artifact SectionWT 1 1 2 2 5 7 5 Deployment | Templates/ProjectPlan/Deployment.txt")
+	(dataSlot [data_95]))
+
+([node_8] of  node
+
+	(_id "Artifact SectionWT 1 1 2 2 5 7 2 Project organization | Templates/ProjectPlan/ProjectOrganization.txt")
+	(dataSlot [data_48]))
+
+([node_9] of  node
+
+	(_id "Project Plan")
+	(dataSlot [data_102]))

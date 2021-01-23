@@ -1,0 +1,127 @@
+digraph useCase {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Use Case",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+	"Artifact Start 1 2 1 1 1 12 0 Use Case |" -> "Artifact Section 1 2 1 1 1 12 1 Brief Description |" [style=solid];
+	"Artifact Section 1 2 1 1 1 12 1 Brief Description |" -> "Artifact SectionWT 1 2 1 1 1 12 2 Actor Brief Descriptions | Templates/UseCase/ActorBriefDescriptions.txt" [style=solid];
+	"Artifact SectionWT 1 2 1 1 1 12 2 Actor Brief Descriptions | Templates/UseCase/ActorBriefDescriptions.txt" -> "Artifact Section 1 2 1 1 1 12 3 Preconditions |" [style=solid];
+	"Artifact Section 1 2 1 1 1 12 3 Preconditions |" -> "Artifact SectionWT 1 2 1 1 1 12 4 Basic Flow of Events | Templates/UseCase/BasicFlowOfEvents.txt" [style=solid];
+	"Artifact SectionWT 1 2 1 1 1 12 4 Basic Flow of Events | Templates/UseCase/BasicFlowOfEvents.txt" -> "Artifact SectionWT 1 2 1 1 1 12 5 Alternative Flows | Templates/UseCase/AlternativeFlows.txt" [style=solid];
+	"Artifact SectionWT 1 2 1 1 1 12 5 Alternative Flows | Templates/UseCase/AlternativeFlows.txt" -> "Artifact SectionWT 1 2 1 1 1 12 6 Subflows | Templates/UseCase/Subflows.txt" [style=solid];
+	"Artifact SectionWT 1 2 1 1 1 12 6 Subflows | Templates/UseCase/Subflows.txt" -> "Artifact SectionWT 1 2 1 1 1 12 7 Key Scenarios | Templates/UseCase/KeyScenarios.txt" [style=solid];
+	"Artifact SectionWT 1 2 1 1 1 12 7 Key Scenarios | Templates/UseCase/KeyScenarios.txt" -> "Artifact Section 1 2 1 1 1 12 8 Post-conditions |" [style=solid];
+	"Artifact Section 1 2 1 1 1 12 8 Post-conditions |" -> "Artifact Section 1 2 1 1 1 12 9 Special Requirements |" [style=solid];
+	"Artifact Section 1 2 1 1 1 12 9 Special Requirements |" -> "Artifact End 1 2 1 1 1 12 0 Use Case |" [style=solid];
+    
+	"Artifact Start 1 2 1 1 1 12 0 Use Case |" [shape=ellipse,label="Start Use Case",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 2 1 1 1 12 0 Use Case |" [shape=ellipse,label="End Use Case",fillcolor =royalblue3,style=filled];
+	
+	"Artifact Section 1 2 1 1 1 12 1 Brief Description |" [
+    		shape = component,
+    		label = "1. Brief Description",
+    		margin="0.11,0.11",	 
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  		];	
+	
+	"Artifact SectionWT 1 2 1 1 1 12 2 Actor Brief Descriptions | Templates/UseCase/ActorBriefDescriptions.txt" [
+    		shape = component,
+    		label = "2. Actor Brief Descriptions",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/ActorBriefDescriptions.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue 
+  		];	
+		
+	"Artifact Section 1 2 1 1 1 12 3 Preconditions |" [
+    		shape = component,
+    		label = "3. Preconditions",
+    		margin="0.11,0.11",	 
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+  		];	
+		
+	"Artifact SectionWT 1 2 1 1 1 12 4 Basic Flow of Events | Templates/UseCase/BasicFlowOfEvents.txt" [
+    		shape = component,
+    		label = "4. Basic Flow of Events",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/BasicFlowOfEvents.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue 
+  		];	
+		
+	"Artifact SectionWT 1 2 1 1 1 12 5 Alternative Flows | Templates/UseCase/AlternativeFlows.txt" [
+    		shape = component,
+    		label = "5. Alternative Flows",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/AlternativeFlows.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue 
+  		];	
+		
+	"Artifact SectionWT 1 2 1 1 1 12 6 Subflows | Templates/UseCase/Subflows.txt" [
+    		shape = component,
+    		label = "6. Subflows ",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/Subflows.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue 
+  		];	
+		
+	"Artifact SectionWT 1 2 1 1 1 12 7 Key Scenarios | Templates/UseCase/KeyScenarios.txt" [
+    		shape = component,
+    		label = "7. Key Scenarios",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/KeyScenarios.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue 
+  		];	
+		
+	"Artifact Section 1 2 1 1 1 12 8 Post-conditions |" [
+    		shape = component,
+    		label = "8. Post-conditions",
+    		margin="0.11,0.11",	 
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+  		];	
+		
+	"Artifact Section 1 2 1 1 1 12 9 Special Requirements |" [
+    		shape = component,
+    		label = "9. Special Requirements",
+    		margin="0.11,0.11",	 
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12
+
+  		];	
+		
+
+				
+}

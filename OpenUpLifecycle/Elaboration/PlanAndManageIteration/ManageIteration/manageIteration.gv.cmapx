@@ -1,0 +1,6 @@
+<map id="manageIteration" name="manageIteration">
+<area shape="rect" id="node2" href="./Artifacts/IterationPlan/iterationPlan.html" title="Iteration Plan" alt="" coords="71,136,183,184"/>
+<area shape="rect" id="node3" href="./Artifacts/ProjectPlan/projectPlan.html" title="Project Plan" alt="" coords="73,232,180,280"/>
+<area shape="rect" id="node4" href="./Artifacts/WorkItemsList/workItemsList.html" title="Work Items List" alt="" coords="62,328,191,376"/>
+<area shape="rect" id="node5" href="./Artifacts/RiskList/riskList.html" title="Risk List" alt="" coords="85,424,168,472"/>
+</map>

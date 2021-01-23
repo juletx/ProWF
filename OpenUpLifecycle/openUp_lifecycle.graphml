@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="margin" attr.type="string" for="node" id="margin"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-342.50293</data>
+<data key="y">-96.13011</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-266.37878</data>
+<data key="y">-289.71213</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-426.91547</data>
+<data key="y">-126.13988</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-306.64996</data>
+<data key="y">218.21715</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-54.157696</data>
+<data key="y">-159.6715</data>
+</node>
+<node id="OpenUp Lyfecycle">
+<data key="label">OpenUp Lyfecycle</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">496.57147</data>
+<data key="y">-364.1736</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-163.9745</data>
+<data key="y">-81.95473</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">384.15405</data>
+<data key="y">548.6442</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-191.60667</data>
+<data key="y">418.36917</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">307.88074</data>
+<data key="y">415.6793</data>
+</node>
+<node id="Methodology Start 1 0 0 0 0 0 0 OpenUp Lifecycle | Alpha">
+<data key="label">Start OpenUp Lifecycle</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">398.74805</data>
+<data key="y">-136.35316</data>
+</node>
+<node id="Methodology Phase 1 1 0 0 0 0 0 Inception |">
+<data key="label">Inception</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Inception/inception.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">492.77148</data>
+<data key="y">-152.59148</data>
+</node>
+<node id="Methodology Question 1 1 0 0 0 0 0 Inception |">
+<data key="label">Assessments?</data>
+<data key="shape">box</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">139.42015</data>
+<data key="y">-408.21472</data>
+</node>
+<node id="Methodology Decision 1 1 0 0 0 0 0 Inception |">
+<data key="label">Go to the next phase</data>
+<data key="shape">diamond</data>
+<data key="fillcolor">white</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-190.1681</data>
+<data key="y">-331.58908</data>
+</node>
+<node id="Methodology Phase 1 2 0 0 0 0 0 Elaboration |">
+<data key="label">Elaboration</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Elaboration/elaboration.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-333.56592</data>
+<data key="y">41.35954</data>
+</node>
+<node id="Methodology Question 1 2 0 0 0 0 0 Elaboration |">
+<data key="label">Assessments?</data>
+<data key="shape">box</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-224.57951</data>
+<data key="y">-82.00154</data>
+</node>
+<node id="Methodology Decision 1 2 0 0 0 0 0 Elaboration |">
+<data key="label">Go to the next phase</data>
+<data key="shape">diamond</data>
+<data key="fillcolor">white</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-411.6821</data>
+<data key="y">-183.59291</data>
+</node>
+<node id="Methodology Phase 1 3 0 0 0 0 0 Construction |">
+<data key="label">Construction</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Construction/construction.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">416.27808</data>
+<data key="y">-158.3911</data>
+</node>
+<node id="Methodology Question 1 3 0 0 0 0 0 Construction |">
+<data key="label">Assessments?</data>
+<data key="shape">box</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-265.00497</data>
+<data key="y">-329.8999</data>
+</node>
+<node id="Methodology Decision 1 3 0 0 0 0 0 Construction |">
+<data key="label">Go to the next phase</data>
+<data key="shape">diamond</data>
+<data key="fillcolor">white</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-56.634197</data>
+<data key="y">356.3889</data>
+</node>
+<node id="Methodology Phase 1 4 0 0 0 0 0 Transition |">
+<data key="label">Transition</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="url">./Transition/transition.html</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">124.92296</data>
+<data key="y">-382.22498</data>
+</node>
+<node id="Methodology Question 1 4 0 0 0 0 0 Transition |">
+<data key="label">Assessments?</data>
+<data key="shape">box</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">163.00859</data>
+<data key="y">436.3113</data>
+</node>
+<node id="Methodology Decision 1 4 0 0 0 0 0 Transition |">
+<data key="label">End Project</data>
+<data key="shape">diamond</data>
+<data key="fillcolor">white</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">489.6219</data>
+<data key="y">492.33817</data>
+</node>
+<node id="Methodology End 1 0 0 0 0 0 0 O OpenUp Lifecycle | Alpha">
+<data key="label">End OpenUp Lifecycle</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-179.5565</data>
+<data key="y">355.33298</data>
+</node>
+<edge id="0" source="Methodology Start 1 0 0 0 0 0 0 OpenUp Lifecycle | Alpha" target="Methodology Phase 1 1 0 0 0 0 0 Inception |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1" source="Methodology Phase 1 1 0 0 0 0 0 Inception |" target="Methodology Question 1 1 0 0 0 0 0 Inception |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2" source="Methodology Question 1 1 0 0 0 0 0 Inception |" target="Methodology Decision 1 1 0 0 0 0 0 Inception |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="3" source="Methodology Decision 1 1 0 0 0 0 0 Inception |" target="Methodology Phase 1 1 0 0 0 0 0 Inception |">
+<data key="edgelabel">(not ?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+<edge id="4" source="Methodology Decision 1 1 0 0 0 0 0 Inception |" target="Methodology Phase 1 2 0 0 0 0 0 Elaboration |">
+<data key="edgelabel">(?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+<edge id="5" source="Methodology Phase 1 2 0 0 0 0 0 Elaboration |" target="Methodology Question 1 2 0 0 0 0 0 Elaboration |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="6" source="Methodology Question 1 2 0 0 0 0 0 Elaboration |" target="Methodology Decision 1 2 0 0 0 0 0 Elaboration |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="7" source="Methodology Decision 1 2 0 0 0 0 0 Elaboration |" target="Methodology Phase 1 2 0 0 0 0 0 Elaboration |">
+<data key="edgelabel">(not ?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+<edge id="8" source="Methodology Decision 1 2 0 0 0 0 0 Elaboration |" target="Methodology Phase 1 3 0 0 0 0 0 Construction |">
+<data key="edgelabel">(?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+<edge id="9" source="Methodology Phase 1 3 0 0 0 0 0 Construction |" target="Methodology Question 1 3 0 0 0 0 0 Construction |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="10" source="Methodology Question 1 3 0 0 0 0 0 Construction |" target="Methodology Decision 1 3 0 0 0 0 0 Construction |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="11" source="Methodology Decision 1 3 0 0 0 0 0 Construction |" target="Methodology Phase 1 3 0 0 0 0 0 Construction |">
+<data key="edgelabel">(not ?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+<edge id="12" source="Methodology Decision 1 3 0 0 0 0 0 Construction |" target="Methodology Phase 1 4 0 0 0 0 0 Transition |">
+<data key="edgelabel">(?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+<edge id="13" source="Methodology Phase 1 4 0 0 0 0 0 Transition |" target="Methodology Question 1 4 0 0 0 0 0 Transition |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="14" source="Methodology Question 1 4 0 0 0 0 0 Transition |" target="Methodology Decision 1 4 0 0 0 0 0 Transition |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="15" source="Methodology Decision 1 4 0 0 0 0 0 Transition |" target="Methodology Phase 1 4 0 0 0 0 0 Transition |">
+<data key="edgelabel">(not ?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+<edge id="16" source="Methodology Decision 1 4 0 0 0 0 0 Transition |" target="Methodology End 1 0 0 0 0 0 0 O OpenUp Lifecycle | Alpha">
+<data key="edgelabel">(?*allAssessmentIsCorrect*)</data>
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

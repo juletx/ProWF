@@ -1,0 +1,1243 @@
+; Mon Jul 06 13:56:12 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_1] of  data
+
+	(_key "x")
+	(Text "-477.0719"))
+
+([data_10] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_100] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_101] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_102] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_103] of  data
+
+	(_key "label")
+	(Text "3. UML Stereotypes"))
+
+([data_104] of  data
+
+	(_key "x")
+	(Text "42.92332"))
+
+([data_105] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_106] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_107] of  data
+
+	(_key "y")
+	(Text "-431.53635"))
+
+([data_108] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_109] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_11] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_110] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_111] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_112] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_113] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_114] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_115] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_116] of  data
+
+	(_key "y")
+	(Text "-4.469155"))
+
+([data_117] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_118] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_119] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_12] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_120] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_121] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_122] of  data
+
+	(_key "label")
+	(Text "1.2 Scope"))
+
+([data_123] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_124] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_125] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_126] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_127] of  data
+
+	(_key "url")
+	(Text "./Templates/Purpose.txt"))
+
+([data_128] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_129] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_13] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_130] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_131] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_132] of  data
+
+	(_key "y")
+	(Text "87.547905"))
+
+([data_133] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_134] of  data
+
+	(_key "y")
+	(Text "86.46752"))
+
+([data_135] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_136] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_137] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_138] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_139] of  data
+
+	(_key "y")
+	(Text "-306.2133"))
+
+([data_14] of  data
+
+	(_key "label")
+	(Text "1.4 Overview"))
+
+([data_140] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_141] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_142] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_143] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_144] of  data
+
+	(_key "x")
+	(Text "277.31442"))
+
+([data_145] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_146] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_147] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_148] of  data
+
+	(_key "y")
+	(Text "484.75055"))
+
+([data_149] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_15] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_150] of  data
+
+	(_key "y")
+	(Text "-286.74115"))
+
+([data_151] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_152] of  data
+
+	(_key "y")
+	(Text "460.45123"))
+
+([data_153] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_154] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_155] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_156] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_157] of  data
+
+	(_key "url")
+	(Text "./Templates/Scope.txt"))
+
+([data_158] of  data
+
+	(_key "y")
+	(Text "12.542015"))
+
+([data_159] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_16] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_160] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_161] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_162] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_163] of  data
+
+	(_key "x")
+	(Text "304.296"))
+
+([data_164] of  data
+
+	(_key "url")
+	(Text "./Templates/References.txt"))
+
+([data_165] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_166] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_167] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_168] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_169] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_17] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_170] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_171] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_172] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_173] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_174] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_175] of  data
+
+	(_key "label")
+	(Text "1.1 Purpose"))
+
+([data_176] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_177] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_178] of  data
+
+	(_key "x")
+	(Text "-67.569046"))
+
+([data_179] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_18] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_180] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_181] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_182] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_183] of  data
+
+	(_key "y")
+	(Text "-307.34003"))
+
+([data_184] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_185] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_186] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_187] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_188] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_189] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_19] of  data
+
+	(_key "y")
+	(Text "288.34595"))
+
+([data_190] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_191] of  data
+
+	(_key "label")
+	(Text "1.3 References"))
+
+([data_192] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_193] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_2] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_20] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_21] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_22] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_23] of  data
+
+	(_key "y")
+	(Text "-125.41801"))
+
+([data_24] of  data
+
+	(_key "x")
+	(Text "356.42166"))
+
+([data_25] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_26] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_27] of  data
+
+	(_key "x")
+	(Text "-107.61116"))
+
+([data_28] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_29] of  data
+
+	(_key "y")
+	(Text "-91.889595"))
+
+([data_3] of  data
+
+	(_key "x")
+	(Text "-234.04012"))
+
+([data_30] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_31] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_32] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_33] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_34] of  data
+
+	(_key "url")
+	(Text "./Templates/Introduction.txt"))
+
+([data_35] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_36] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_37] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_38] of  data
+
+	(_key "x")
+	(Text "-490.90253"))
+
+([data_39] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_4] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_40] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_41] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_42] of  data
+
+	(_key "x")
+	(Text "161.78423"))
+
+([data_43] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_44] of  data
+
+	(_key "y")
+	(Text "-458.14035"))
+
+([data_45] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_46] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_47] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_48] of  data
+
+	(_key "x")
+	(Text "378.8917"))
+
+([data_49] of  data
+
+	(_key "url")
+	(Text "./Templates/UMLStereotypes.txt"))
+
+([data_5] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_50] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_51] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_52] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_53] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_54] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_55] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_56] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_57] of  data
+
+	(_key "label")
+	(Text "End Glossary"))
+
+([data_58] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_59] of  data
+
+	(_key "y")
+	(Text "24.505547"))
+
+([data_6] of  data
+
+	(_key "label")
+	(Text "2. Definitions"))
+
+([data_60] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_61] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_62] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_63] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_64] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_65] of  data
+
+	(_key "label")
+	(Text "Glossary"))
+
+([data_66] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_67] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_68] of  data
+
+	(_key "y")
+	(Text "-170.24657"))
+
+([data_69] of  data
+
+	(_key "x")
+	(Text "-286.095"))
+
+([data_7] of  data
+
+	(_key "x")
+	(Text "330.09164"))
+
+([data_70] of  data
+
+	(_key "x")
+	(Text "99.60893"))
+
+([data_71] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_72] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_73] of  data
+
+	(_key "x")
+	(Text "-334.30835"))
+
+([data_74] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_75] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_76] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_77] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_78] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([data_79] of  data
+
+	(_key "x")
+	(Text "-63.790882"))
+
+([data_8] of  data
+
+	(_key "x")
+	(Text "139.92857"))
+
+([data_80] of  data
+
+	(_key "x")
+	(Text "-38.388783"))
+
+([data_81] of  data
+
+	(_key "url")
+	(Text "./Templates/Overview.txt"))
+
+([data_82] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_83] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_84] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_85] of  data
+
+	(_key "y")
+	(Text "346.4126"))
+
+([data_86] of  data
+
+	(_key "x")
+	(Text "8.517194"))
+
+([data_87] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_88] of  data
+
+	(_key "url")
+	(Text "./Templates/Definitions.txt"))
+
+([data_89] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_9] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_90] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_91] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_92] of  data
+
+	(_key "label")
+	(Text "Start Glossary"))
+
+([data_93] of  data
+
+	(_key "y")
+	(Text "312.25177"))
+
+([data_94] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_95] of  data
+
+	(_key "y")
+	(Text "78.719475"))
+
+([data_96] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_97] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_98] of  data
+
+	(_key "label")
+	(Text "1. Introduction"))
+
+([data_99] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([edge_0] of  edge
+
+	(_id "148")
+	(_source "Artifact SectionWT 1 1 3 2 1 10 3 UML Stereotypes | Templates/Glossary/UMLStereotypes.txt")
+	(_target "Artifact End 1 1 3 2 1 10 0 Glossary |")
+	(dataSlot [data_182]))
+
+([edge_1] of  edge
+
+	(_id "142")
+	(_source "Artifact SectionWT 1 1 3 2 1 10 1 Introduction | Templates/Glossary/Introduction.txt")
+	(_target "Artifact SectionWT 1 1 3 2 1 10 1.1 Purpose | Templates/Glossary/Purpose.txt")
+	(dataSlot [data_187]))
+
+([edge_2] of  edge
+
+	(_id "147")
+	(_source "Artifact SectionWT 1 1 3 2 1 10 2 Definitions | Templates/Glossary/Definitions.txt")
+	(_target "Artifact SectionWT 1 1 3 2 1 10 3 UML Stereotypes | Templates/Glossary/UMLStereotypes.txt")
+	(dataSlot [data_40]))
+
+([edge_3] of  edge
+
+	(_id "145")
+	(_source "Artifact SectionWT 1 1 3 2 1 10 1.3 References | Templates/Glossary/References.txt")
+	(_target "Artifact SectionWT 1 1 3 2 1 10 1.4 Overview | Templates/Glossary/Overview.txt")
+	(dataSlot [data_166]))
+
+([edge_4] of  edge
+
+	(_id "144")
+	(_source "Artifact SectionWT 1 1 3 2 1 10 1.2 Scope | Templates/Glossary/Scope.txt")
+	(_target "Artifact SectionWT 1 1 3 2 1 10 1.3 References | Templates/Glossary/References.txt")
+	(dataSlot [data_9]))
+
+([edge_5] of  edge
+
+	(_id "141")
+	(_source "Artifact Start 1 1 3 2 1 10 0 Glossary |")
+	(_target "Artifact SectionWT 1 1 3 2 1 10 1 Introduction | Templates/Glossary/Introduction.txt")
+	(dataSlot [data_54]))
+
+([edge_6] of  edge
+
+	(_id "146")
+	(_source "Artifact SectionWT 1 1 3 2 1 10 1.4 Overview | Templates/Glossary/Overview.txt")
+	(_target "Artifact SectionWT 1 1 3 2 1 10 2 Definitions | Templates/Glossary/Definitions.txt")
+	(dataSlot [data_131]))
+
+([edge_7] of  edge
+
+	(_id "143")
+	(_source "Artifact SectionWT 1 1 3 2 1 10 1.1 Purpose | Templates/Glossary/Purpose.txt")
+	(_target "Artifact SectionWT 1 1 3 2 1 10 1.2 Scope | Templates/Glossary/Scope.txt")
+	(dataSlot [data_174]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_5])
+	(nodeSlot [node_8]))
+
+([key_0] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([key_1] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([key_10] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_11] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([key_12] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_13] of  key
+
+	(_attr.name "fontcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontcolor"))
+
+([key_14] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_15] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_2] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_3] of  key
+
+	(_attr.name "margin")
+	(_attr.type "string")
+	(_for "node")
+	(_id "margin"))
+
+([key_4] of  key
+
+	(_attr.name "url")
+	(_attr.type "string")
+	(_for "node")
+	(_id "url"))
+
+([key_5] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([key_6] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([key_7] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_8] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([key_9] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([node_0] of  node
+
+	(_id "Artifact SectionWT 1 1 3 2 1 10 1.2 Scope | Templates/Glossary/Scope.txt")
+	(dataSlot [data_122]))
+
+([node_1] of  node
+
+	(_id "Artifact Start 1 1 3 2 1 10 0 Glossary |")
+	(dataSlot [data_92]))
+
+([node_10] of  node
+
+	(_id "t")
+	(dataSlot [data_16]))
+
+([node_11] of  node
+
+	(_id "16")
+	(dataSlot [data_78]))
+
+([node_12] of  node
+
+	(_id "fontname")
+	(dataSlot [data_96]))
+
+([node_13] of  node
+
+	(_id "Artifact SectionWT 1 1 3 2 1 10 2 Definitions | Templates/Glossary/Definitions.txt")
+	(dataSlot [data_6]))
+
+([node_14] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_82]))
+
+([node_15] of  node
+
+	(_id "Artifact End 1 1 3 2 1 10 0 Glossary |")
+	(dataSlot [data_57]))
+
+([node_16] of  node
+
+	(_id "Artifact SectionWT 1 1 3 2 1 10 3 UML Stereotypes | Templates/Glossary/UMLStereotypes.txt")
+	(dataSlot [data_103]))
+
+([node_17] of  node
+
+	(_id "Artifact SectionWT 1 1 3 2 1 10 1.1 Purpose | Templates/Glossary/Purpose.txt")
+	(dataSlot [data_175]))
+
+([node_18] of  node
+
+	(_id "Glossary")
+	(dataSlot [data_65]))
+
+([node_2] of  node
+
+	(_id "Arial")
+	(dataSlot [data_138]))
+
+([node_3] of  node
+
+	(_id "label")
+	(dataSlot [data_84]))
+
+([node_4] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_113]))
+
+([node_5] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_35]))
+
+([node_6] of  node
+
+	(_id "Artifact SectionWT 1 1 3 2 1 10 1.3 References | Templates/Glossary/References.txt")
+	(dataSlot [data_191]))
+
+([node_7] of  node
+
+	(_id "Artifact SectionWT 1 1 3 2 1 10 1.4 Overview | Templates/Glossary/Overview.txt")
+	(dataSlot [data_14]))
+
+([node_8] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_71]))
+
+([node_9] of  node
+
+	(_id "Artifact SectionWT 1 1 3 2 1 10 1 Introduction | Templates/Glossary/Introduction.txt")
+	(dataSlot [data_98]))

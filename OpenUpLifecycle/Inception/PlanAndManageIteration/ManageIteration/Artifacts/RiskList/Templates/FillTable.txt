@@ -1,0 +1,7 @@
+[Risk Type = Direct or Indirect, Resource, Business, Technical, Schedule
+Impact is a numerical value, usually between 1 and 5, that represents the impact to the project if the risk comes true.
+5 is a HIGH IMPACT and 1 is LOW IMPACT.
+Probability is the percentage chance that a risk will occur.
+Magnitude is the result of the multiplication of Probability and Impact, providing a joint metric suitable for sorting.]
+
+Risk ID | Date Identified | Headline | Description | Type | Impact | Probability | Magnitude | Owner | Mitigation Strategy

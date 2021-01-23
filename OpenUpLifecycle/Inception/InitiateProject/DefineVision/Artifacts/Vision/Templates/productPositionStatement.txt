@@ -1,0 +1,10 @@
+[Provide an overall statement summarizing, at the highest level, the unique position the product intends to fill in the marketplace. The following format may be used:]
+
+- For	[target customer]
+- Who	[statement of the need or opportunity]
+- The (product name)	 is a [product category]
+- That	[statement of key benefit; that is, the compelling reason to buy]
+- Unlike	[primary competitive alternative]
+- Our product	[statement of primary differentiation]
+
+[A product position statement communicates the intent of the application and the importance of the project to all concerned personnel.]

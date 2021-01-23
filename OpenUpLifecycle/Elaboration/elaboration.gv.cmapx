@@ -1,0 +1,8 @@
+<map id="elaboration" name="elaboration">
+<area shape="rect" id="node2" href="./IdentifyAndRefineRequirements/identifyAndRefineRequirements.html" title="Identify and Refine Requirements" alt="" coords="5,136,256,184"/>
+<area shape="rect" id="node3" href="./PlanAndManageIteration/planAndManageIteration.html" title="Plan and Manage Iteration" alt="" coords="280,136,483,184"/>
+<area shape="rect" id="node5" href="./DevelopTheArchitecture/developTheArchitecture.html" title="Develop the Architecture" alt="" coords="160,328,352,376"/>
+<area shape="rect" id="node6" href="./OngoingTasks/ongoingTasks.html" title="Ongoing Tasks" alt="" coords="97,424,223,472"/>
+<area shape="rect" id="node7" href="./DevelopSolutionIncrement/developSolutionIncrement.html" title="Develop Solution Increment" alt="" coords="248,424,459,472"/>
+<area shape="rect" id="node9" href="./TestSolution/testSolution.html" title="Test Solution" alt="" coords="200,616,312,664"/>
+</map>

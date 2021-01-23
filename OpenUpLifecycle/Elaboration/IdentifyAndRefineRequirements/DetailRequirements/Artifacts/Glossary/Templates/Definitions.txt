@@ -1,0 +1,24 @@
+[The terms defined here form the essential substance of the document. They can be defined in any order desired, but generally alphabetical order provides the greatest accessibility.]
+
+2.1	<aTerm>
+[The definition for <aTerm> is presented here. As much information as the reader needs to understand the concept should be presented.]
+
+2.2	<anotherTerm>
+The definition for <anotherTerm> is presented here. As much information as the reader needs to understand the concept should be presented
+
+2.3	<aGroupofTerms>
+[Sometimes it is useful to organize terms into groups to improve readability. For example, if the problem domain contains terms related to both accounting and building construction (as would be the case if we were developing a system to manage construction projects), presenting the terms from the two different sub-domains might prove confusing to the reader. To solve this problem, we use groupings of terms. In presenting the grouping of terms, provide a short description that helps the reader understand what <aGroupofTerms> represents. Terms presented within the group should be organized alphabetically for easy access.]
+
+2.3.1	<aGroupTerm>
+[The definition for <aGroupTerm> is presented here. Present as much information as the reader needs to understand the concept.]
+
+2.3.2	<anotherGroupTerm>
+[The definition for <anotherGroupTerm> is presented here. Present as much information as the reader needs to understand the concept.]
+
+2.4	<aSecondGroupofTerms>
+
+2.4.1	<yetAnotherGroupTerm>
+[The definition for the term is presented here. Present as much information as the reader needs to understand the concept.]
+
+2.4.2	<andAnotherGroupTerm>
+[The definition for the term is presented here. Present as much information as the reader needs to understand the concept.]

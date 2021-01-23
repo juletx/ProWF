@@ -1,0 +1,144 @@
+; Mon Jul 06 13:58:55 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+
+(defclass %3ACLIPS_TOP_LEVEL_SLOT_CLASS "Fake class to save top-level slot information"
+	(is-a USER)
+	(role abstract)
+	(single-slot nodeSlot
+		(type INSTANCE)
+;+		(allowed-classes node)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot Text
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _edgedefault
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _id
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _target
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot edgeSlot
+		(type INSTANCE)
+;+		(allowed-classes edge)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _source
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _attr.name
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _key
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _for
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _attr.type
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot dataSlot
+		(type INSTANCE)
+;+		(allowed-classes data)
+;+		(cardinality 0 1)
+		(create-accessor read-write)))
+
+(defclass key
+	(is-a USER)
+	(role concrete)
+	(single-slot _attr.type
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _attr.name
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _for
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _id
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write)))
+
+(defclass edge
+	(is-a USER)
+	(role concrete)
+	(single-slot _target
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot dataSlot
+		(type INSTANCE)
+;+		(allowed-classes data)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _id
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _source
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write)))
+
+(defclass node
+	(is-a USER)
+	(role concrete)
+	(single-slot dataSlot
+		(type INSTANCE)
+;+		(allowed-classes data)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _id
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write)))
+
+(defclass data
+	(is-a USER)
+	(role concrete)
+	(single-slot Text
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _key
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write)))
+
+(defclass graph
+	(is-a USER)
+	(role concrete)
+	(single-slot nodeSlot
+		(type INSTANCE)
+;+		(allowed-classes node)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot edgeSlot
+		(type INSTANCE)
+;+		(allowed-classes edge)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot _edgedefault
+		(type STRING)
+;+		(cardinality 0 1)
+		(create-accessor read-write)))

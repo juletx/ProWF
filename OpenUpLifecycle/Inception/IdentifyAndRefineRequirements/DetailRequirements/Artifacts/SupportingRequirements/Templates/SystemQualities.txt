@@ -1,0 +1,9 @@
+ [Qualities represent the URPS in FURPS+ classification of supporting requirements.]
+3.1	Usability
+[Describe requirements for qualities such as easy of use, easy of learning, usability standards and localization.]
+3.2	Reliability
+ [Reliability includes the product and/or system's ability to keep running under stress and adverse conditions. Specify requirements for reliability acceptance levels, and how they will be measured and evaluated. Suggested topics are availability, frequency of severity of failures and recoverability.]
+3.3	Performance
+[The performance characteristics of the system should be outlined in this section. Examples are response time, throughput, capacity and startup or shutdown times.]
+3.4	Supportability
+[This section indicates any requirements that will enhance the supportability or maintainability of the system being built, including adaptability and upgrading, compatibility, configurability, scalability and requirements regarding system installation, level of support and maintenance.]

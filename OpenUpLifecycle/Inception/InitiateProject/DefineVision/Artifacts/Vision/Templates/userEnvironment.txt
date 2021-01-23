@@ -1,0 +1,7 @@
+[Detail the working environment of the target user. Here are some suggestions:
+Number of people involved in completing the task? Is this changing?
+How long is a task cycle? Amount of time spent in each activity? Is this changing?
+Any unique environmental constraints: mobile, outdoors, in-flight, and so on?
+Which system platforms are in use today? Future platforms?
+What other applications are in use? Does your application need to integrate with them?
+This is where extracts from the Business Model could be included to outline the task and roles involved, and so on.]

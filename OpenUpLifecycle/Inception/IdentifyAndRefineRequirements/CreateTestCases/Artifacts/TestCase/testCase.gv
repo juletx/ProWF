@@ -1,0 +1,30 @@
+digraph testCase {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Test Case",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+
+	"Artifact Start 1 1 3 3 7 15 0 Test Case |" -> "Artifact SectionWT 1 1 3 3 7 15 0 Test Case | Templates/TestCase/TestCase.txt" [style=solid];
+	"Artifact SectionWT 1 1 3 3 7 15 0 Test Case | Templates/TestCase/TestCase.txt" -> "Artifact End 1 1 3 3 7 15 0 Test Case |" [style=solid];
+    
+	"Artifact Start 1 1 3 3 7 15 0 Test Case |" [shape=ellipse,label="Start Test Case",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 1 3 3 7 15 0 Test Case |" [shape=ellipse,label="End Test Case",fillcolor =royalblue3,style=filled];
+	
+	"Artifact SectionWT 1 1 3 3 7 15 0 Test Case | Templates/TestCase/TestCase.txt" [
+    		shape = component,
+    		label = "Test Case",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/TestCase.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+	   		 
+  		];	
+				
+}

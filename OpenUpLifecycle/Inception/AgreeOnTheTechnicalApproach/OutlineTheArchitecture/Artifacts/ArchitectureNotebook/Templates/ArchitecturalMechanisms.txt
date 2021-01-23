@@ -1,0 +1,7 @@
+[List the architectural mechanisms and describe the current state of each one. Initially, each mechanism may be only name and a brief description. They will evolve until the mechanism is a collaboration or pattern that can be directly applied to some aspect of the design.]
+
+Architectural Mechanism 1
+[Describe the purpose, attributes, and function of the architectural mechanism.]
+
+Architectural Mechanism 2
+[Describe the purpose, attributes, and function of the architectural mechanism.]

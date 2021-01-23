@@ -1,0 +1,7 @@
+[This section should reference either the Work Items List, which provides information about what Work Items are to be addressed in which iteration by whom, or specifically call out the Work Items Lists to address in this iteration. The preferred solution depends on whether or not it is trivial for team members to find the subset of all Work Items that are assigned to the iteration by using search methods, rather than the Iteration Plan.]
+
+Please see the Work Items List for Work Items to be addressed in this iteration.
+or
+The following Work Items will be addressed in this iteration:
+
+Name or key words of description | Priority | Size estimate (points) | State | Reference material | Target iteration | Assigned to (name) | Hours worked | Estimate of hours remaining 

@@ -1,0 +1,93 @@
+digraph iterationPlan {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Iteration Plan",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+	"Artifact Start 1 2 2 1 5 6 0 Iteration Plan |" -> "Artifact SectionWT 1 2 2 1 5 6 1 Key milestones | Templates/IterationPlan/KeyMilestones.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 1 5 6 1 Key milestones | Templates/IterationPlan/KeyMilestones.txt" -> "Artifact SectionWT 1 2 2 1 5 6 2 High-level objectives | Templates/IterationPlan/High-levelObjectives.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 1 5 6 2 High-level objectives | Templates/IterationPlan/High-levelObjectives.txt" -> "Artifact SectionWT 1 2 2 1 5 6 3 Work Item assignments | Templates/IterationPlan/WorkItemAssignments.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 1 5 6 3 Work Item assignments | Templates/IterationPlan/WorkItemAssignments.txt" -> "Artifact SectionWT 1 2 2 1 5 6 4 Issues | Templates/IterationPlan/Issues.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 1 5 6 4 Issues | Templates/IterationPlan/Issues.txt" -> "Artifact SectionWT 1 2 2 1 5 6 5 Evaluation criteria | Templates/IterationPlan/EvaluationCriteria.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 1 5 6 5 Evaluation criteria | Templates/IterationPlan/EvaluationCriteria.txt" -> "Artifact SectionWT 1 2 2 1 5 6 6 Assessment | Templates/IterationPlan/Assessment.txt" [style=solid];
+	"Artifact SectionWT 1 2 2 1 5 6 6 Assessment | Templates/IterationPlan/Assessment.txt" -> "Artifact End 1 2 2 1 5 6 0 Iteration Plan |" [style=solid];
+    
+	"Artifact Start 1 2 2 1 5 6 0 Iteration Plan |" [shape=ellipse,label="Start Iteration Plan",fillcolor =royalblue3,style=filled];
+	"Artifact End 1 2 2 1 5 6 0 Iteration Plan |" [shape=ellipse,label="End Iteration Plan",fillcolor =royalblue3,style=filled];
+	
+	"Artifact SectionWT 1 2 2 1 5 6 1 Key milestones | Templates/IterationPlan/KeyMilestones.txt" [
+    		shape = component,
+    		label = "1. Key milestones",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/KeyMilestones.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];
+
+	"Artifact SectionWT 1 2 2 1 5 6 2 High-level objectives | Templates/IterationPlan/High-levelObjectives.txt" [
+    		shape = component,
+    		label = "2. High-level objectives",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/High-levelObjectives.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+
+	"Artifact SectionWT 1 2 2 1 5 6 3 Work Item assignments | Templates/IterationPlan/WorkItemAssignments.txt" [
+    		shape = component,
+    		label = "3. Work Item assignments",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/WorkItemAssignments.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+
+	"Artifact SectionWT 1 2 2 1 5 6 4 Issues | Templates/IterationPlan/Issues.txt" [
+    		shape = component,
+    		label = "4. Issues",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/Issues.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+
+	"Artifact SectionWT 1 2 2 1 5 6 5 Evaluation criteria | Templates/IterationPlan/EvaluationCriteria.txt" [
+    		shape = component,
+    		label = "5. Evaluation criteria",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/EvaluationCriteria.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];	
+
+	"Artifact SectionWT 1 2 2 1 5 6 6 Assessment | Templates/IterationPlan/Assessment.txt" [
+    		shape = component,
+    		label = "6. Assessment",
+    		margin="0.11,0.11",	 
+			URL = "./Templates/Assessment.txt",
+    		fillcolor = white,
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12,
+			fontcolor = blue
+  		];			
+				
+}

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="margin" attr.type="string" for="node" id="margin"/>
+<key attr.name="url" attr.type="string" for="node" id="url"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">178.27106</data>
+<data key="y">59.340027</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-297.69025</data>
+<data key="y">252.82843</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-240.8034</data>
+<data key="y">122.03302</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-17.88137</data>
+<data key="y">-291.6756</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">89.22416</data>
+<data key="y">-464.18448</data>
+</node>
+<node id="Inception">
+<data key="label">Inception</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">640.58234</data>
+<data key="y">289.36505</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-92.89483</data>
+<data key="y">-533.41565</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-196.95303</data>
+<data key="y">-443.19424</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">14.546272</data>
+<data key="y">267.83905</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-172.9585</data>
+<data key="y">344.4483</data>
+</node>
+<node id="Phase Start 1 1 0 0 0 0 0 Inception |">
+<data key="label">Start Inception</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-269.1282</data>
+<data key="y">-156.01279</data>
+</node>
+<node id="Phase Activity 1 1 1 0 0 0 0 Initiate Project |">
+<data key="label">Initiate Project</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./InitiateProject/initiateProject.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-300.8024</data>
+<data key="y">238.3291</data>
+</node>
+<node id="Phase Activity 1 1 2 0 0 0 0 Plan and Manage Iteration |">
+<data key="label">Plan and Manage Iteration</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./PlanAndManageIteration/planAndManageIteration.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">383.393</data>
+<data key="y">171.52612</data>
+</node>
+<node id="Phase Activity 1 1 3 0 0 0 0 Identify and Refine Requirements |">
+<data key="label">Identify and Refine Requirements</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./IdentifyAndRefineRequirements/identifyAndRefineRequirements.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">171.7489</data>
+<data key="y">34.577393</data>
+</node>
+<node id="Phase Activity 1 1 4 0 0 0 0 Agree on the Technical Approach |">
+<data key="label">Agree on the Technical Approach</data>
+<data key="shape">box3d</data>
+<data key="fillcolor">#DCDCDC</data>
+<data key="margin">0.11,0.11</data>
+<data key="url">./AgreeOnTheTechnicalApproach/agreeOnTheTechnicalApproach.html</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-313.2144</data>
+<data key="y">27.935667</data>
+</node>
+<node id="Phase Join 1 1 0 0 0 0 0 End access | 3 1">
+<data key="label">Join</data>
+<data key="shape">diamond</data>
+<data key="fillcolor">white</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">449.43103</data>
+<data key="y">15.229063</data>
+</node>
+<node id="Phase End 1 1 0 0 0 0 0 Inception |">
+<data key="label">End Inception</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-24.870476</data>
+<data key="y">65.031555</data>
+</node>
+<edge id="207" source="Phase Start 1 1 0 0 0 0 0 Inception |" target="Phase Activity 1 1 1 0 0 0 0 Initiate Project |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="208" source="Phase Start 1 1 0 0 0 0 0 Inception |" target="Phase Activity 1 1 2 0 0 0 0 Plan and Manage Iteration |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="209" source="Phase Activity 1 1 1 0 0 0 0 Initiate Project |" target="Phase Activity 1 1 3 0 0 0 0 Identify and Refine Requirements |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="210" source="Phase Activity 1 1 1 0 0 0 0 Initiate Project |" target="Phase Activity 1 1 4 0 0 0 0 Agree on the Technical Approach |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="211" source="Phase Activity 1 1 2 0 0 0 0 Plan and Manage Iteration |" target="Phase Join 1 1 0 0 0 0 0 End access | 3 1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212" source="Phase Activity 1 1 3 0 0 0 0 Identify and Refine Requirements |" target="Phase Join 1 1 0 0 0 0 0 End access | 3 1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="213" source="Phase Activity 1 1 4 0 0 0 0 Agree on the Technical Approach |" target="Phase Join 1 1 0 0 0 0 0 End access | 3 1">
+<data key="weight">1.0</data>
+</edge>
+<edge id="214" source="Phase Join 1 1 0 0 0 0 0 End access | 3 1" target="Phase End 1 1 0 0 0 0 0 Inception |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

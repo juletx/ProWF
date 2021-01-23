@@ -1,0 +1,7 @@
+[Are there any external systems with which this system must interface? Are there any constraints on the nature of the interface between this system and any external system, such as the format of data passed between these systems, and any particular protocol used? Consider both provided and required interfaces.] 
+4.2.1	Software Interfaces
+[This section describes software interfaces to other components of the software system. These may be purchased components, components reused from another application or components being developed for subsystems outside of the scope of this SRS, but with which this software application must interact.]
+4.2.2	Hardware Interfaces
+[This section defines any hardware interfaces that are to be supported by the software, including logical structure, physical addresses, expected behavior, and so on.]
+4.2.3	Communications Interfaces
+[Describe any communications interfaces to other systems or devices such as local area networks, remote serial devices, and so on.]

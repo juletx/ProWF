@@ -1,0 +1,11 @@
+[Describe the user interfaces that are to be implemented by the software. The intention of this section is to state requirements relating to the interface. Interface design may overlap the requirements gathering process.]
+4.1.1	Look & Feel 
+[Provide a description of the spirit of the interface. Your client may have given you particular demands such as style, colors to be used, and degree of interaction and so on. This section captures the requirements for the interface rather than the design for the interface.]
+4.1.2	Layout and Navigation Requirements
+[Capture requirements on major screen areas and how they should be grouped together.]
+4.1.3	Consistency
+[Consistency in the user interface enables users to predict what will happen. This section states requirements on the use of mechanisms to be employed in the user interface. This applies both within the system and with other systems and can be applied at different levels: navigation controls, screen areas sizes and shapes, placements for entering / presenting data, terminology.]
+4.1.4	User Personalization & Customization Requirements
+[Requirements on content that should automatically displayed to users or available based on user attributes. Sometimes users allowed to customize the content displayed or to personalize displayed content.]
+
+

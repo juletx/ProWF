@@ -1,0 +1,32 @@
+digraph agreeOnTheTechnicalApproach	 {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Agree on the Technical Approach",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+	
+    "Activity Start 1 1 4 0 0 0 0 Agree on the Technical Approach |" -> "Activity Task 1 1 4 1 3 0 0 Outline the Architecture | Architect";
+	"Activity Task 1 1 4 1 3 0 0 Outline the Architecture | Architect" -> "Activity End 1 1 4 0 0 0 0 Agree on the Technical Approach |";
+	
+	"Activity Start 1 1 4 0 0 0 0 Agree on the Technical Approach |" [shape=ellipse,label="Start Agree on the Technical Approach",fillcolor =royalblue3,style=filled];
+	"Activity End 1 1 4 0 0 0 0 Agree on the Technical Approach |" [shape=ellipse,label="End Agree on the Technical Approach",fillcolor =royalblue3,style=filled];
+	
+		
+	"Activity Task 1 1 4 1 3 0 0 Outline the Architecture | Architect" [
+    		shape = cds,
+    		label = "<<Architect>> \n Outline the Architecture",
+    		margin="0.11,0.11",  
+	   		URL = "./OutlineTheArchitecture/outlineTheArchitecture.html",
+    		fillcolor = "#ffff80",
+    		style = filled,
+    		fontname = Arial,
+	   		fontsize = 12 
+  	];	
+
+		
+
+	
+	
+}

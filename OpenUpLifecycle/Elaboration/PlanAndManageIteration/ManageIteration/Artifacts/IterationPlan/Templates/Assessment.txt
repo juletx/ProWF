@@ -1,0 +1,18 @@
+[Use this section for capturing and communicating results and actions from assessments, which are typically done at the end of each iteration. If you don’t do this, the team may not be able to improve the way they develop software.]
+
+Assessment target:	[This could be the entire iteration or just a specific component]
+Assessment date:	
+Participants:	
+Project status:	[For example, express as Red, Yellow, or Green.]
+
+- Assessment against objectives
+[Document whether you addressed the objectives as specified in the Iteration Plan.]
+
+- Work Items: Planned compared to actually completed
+[Summarize whether all Work Items planned to be addressed in the iteration were addressed, and which Work Items were postponed or added.]
+
+- Assessment against Evaluation Criteria Test results
+[Document whether you met the evaluation criteria as specified in the Iteration Plan. This could include information such as “Demo for Department X was well-received, with some concerns raised around usability,” or “495 test cases were automated with a 98% pass rate. 9 test cases were deferred because the corresponding Work Items were postponed.”]
+
+- Other concerns and deviations
+[List other areas that have been evaluated, such as financials, or schedule deviation, as well as Stakeholder feedback not captured elsewhere.]

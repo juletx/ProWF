@@ -1,0 +1,1 @@
+dot -Gcharset=latin1 -Tgif -Tcmapx  openUp_lifecycle.gv -O openUp_lifecycle.gif 

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="shape" attr.type="string" for="node" id="shape"/>
+<key attr.name="fillcolor" attr.type="string" for="node" id="fillcolor"/>
+<key attr.name="margin" attr.type="string" for="node" id="margin"/>
+<key attr.name="fontname" attr.type="string" for="node" id="fontname"/>
+<key attr.name="fontsize" attr.type="string" for="node" id="fontsize"/>
+<graph edgedefault="directed">
+<node id="fontsize">
+<data key="label">fontsize</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">247.80392</data>
+<data key="y">38.693207</data>
+</node>
+<node id="16">
+<data key="label">16</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-79.7608</data>
+<data key="y">-377.15103</data>
+</node>
+<node id="fontname">
+<data key="label">fontname</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">487.47055</data>
+<data key="y">168.0759</data>
+</node>
+<node id="Arial">
+<data key="label">Arial</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-309.63553</data>
+<data key="y">327.7062</data>
+</node>
+<node id="label">
+<data key="label">label</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-295.5089</data>
+<data key="y">261.73557</data>
+</node>
+<node id="Use-Case Model">
+<data key="label">Use-Case Model</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">195.12918</data>
+<data key="y">-18.397156</data>
+</node>
+<node id="labelloc">
+<data key="label">labelloc</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-478.86163</data>
+<data key="y">19.027008</data>
+</node>
+<node id="t">
+<data key="label">t</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-106.79007</data>
+<data key="y">-392.38516</data>
+</node>
+<node id="bgcolor">
+<data key="label">bgcolor</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-87.44409</data>
+<data key="y">327.03836</data>
+</node>
+<node id="lemonchiffon">
+<data key="label">lemonchiffon</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">198.81607</data>
+<data key="y">-395.1984</data>
+</node>
+<node id="Artifact Start 1 2 1 2 1 13 0 Use-Case Model |">
+<data key="label">Start Use-Case Model</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">339.9504</data>
+<data key="y">-94.34799</data>
+</node>
+<node id="Artifact UploadGraph 1 2 1 2 1 13 0 Create and Upload graph |">
+<data key="label">Create and Upload graph</data>
+<data key="shape">component</data>
+<data key="fillcolor">white</data>
+<data key="margin">0.11,0.11</data>
+<data key="fontname">Arial</data>
+<data key="fontsize">12</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-243.12277</data>
+<data key="y">-190.18295</data>
+</node>
+<node id="Artifact End 1 2 1 2 1 13 0 Use-Case Model |">
+<data key="label">End Use-Case Model</data>
+<data key="shape">ellipse</data>
+<data key="fillcolor">royalblue3</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">131.9537</data>
+<data key="y">325.38644</data>
+</node>
+<edge id="148" source="Artifact Start 1 2 1 2 1 13 0 Use-Case Model |" target="Artifact UploadGraph 1 2 1 2 1 13 0 Create and Upload graph |">
+<data key="weight">1.0</data>
+</edge>
+<edge id="149" source="Artifact UploadGraph 1 2 1 2 1 13 0 Create and Upload graph |" target="Artifact End 1 2 1 2 1 13 0 Use-Case Model |">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

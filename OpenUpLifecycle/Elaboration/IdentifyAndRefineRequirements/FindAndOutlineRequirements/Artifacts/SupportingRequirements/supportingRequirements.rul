@@ -1,0 +1,1494 @@
+; Mon Jul 06 18:26:47 CEST 2020
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([data_0] of  data
+
+	(_key "label")
+	(Text "bgcolor"))
+
+([data_1] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_10] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_100] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_101] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_102] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_103] of  data
+
+	(_key "x")
+	(Text "264.99396"))
+
+([data_104] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_105] of  data
+
+	(_key "label")
+	(Text "End Supporting Requirements"))
+
+([data_106] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_107] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_108] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_109] of  data
+
+	(_key "x")
+	(Text "-136.49326"))
+
+([data_11] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_110] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_111] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_112] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_113] of  data
+
+	(_key "y")
+	(Text "469.20996"))
+
+([data_114] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_115] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_116] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_117] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_118] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_119] of  data
+
+	(_key "label")
+	(Text "Supporting Requirements"))
+
+([data_12] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_120] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_121] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_122] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_123] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_124] of  data
+
+	(_key "label")
+	(Text "2. System-Wide Functional Requirements"))
+
+([data_125] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_126] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_127] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_128] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_129] of  data
+
+	(_key "url")
+	(Text "./Templates/SystemCompliance.txt"))
+
+([data_13] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_130] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_131] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_132] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_133] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_134] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_135] of  data
+
+	(_key "label")
+	(Text "Arial"))
+
+([data_136] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_137] of  data
+
+	(_key "x")
+	(Text "486.19702"))
+
+([data_138] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_139] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_14] of  data
+
+	(_key "x")
+	(Text "133.68573"))
+
+([data_140] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_141] of  data
+
+	(_key "y")
+	(Text "-455.1497"))
+
+([data_142] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_143] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_144] of  data
+
+	(_key "url")
+	(Text "./Templates/SystemInterfaces.txt"))
+
+([data_145] of  data
+
+	(_key "shape")
+	(Text "box"))
+
+([data_146] of  data
+
+	(_key "label")
+	(Text "4.1 User Interfaces"))
+
+([data_147] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_148] of  data
+
+	(_key "y")
+	(Text "-348.6882"))
+
+([data_149] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_15] of  data
+
+	(_key "label")
+	(Text "lemonchiffon"))
+
+([data_150] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_151] of  data
+
+	(_key "y")
+	(Text "-136.39273"))
+
+([data_152] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_153] of  data
+
+	(_key "y")
+	(Text "-289.83212"))
+
+([data_154] of  data
+
+	(_key "x")
+	(Text "283.71112"))
+
+([data_155] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_156] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_157] of  data
+
+	(_key "label")
+	(Text "Start Supporting Requirements"))
+
+([data_158] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_159] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_16] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_160] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_161] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_162] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_163] of  data
+
+	(_key "label")
+	(Text "label"))
+
+([data_164] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_165] of  data
+
+	(_key "y")
+	(Text "-475.4614"))
+
+([data_166] of  data
+
+	(_key "url")
+	(Text "./Templates/System-WideFunctionalRequirements.txt"))
+
+([data_167] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_168] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_169] of  data
+
+	(_key "y")
+	(Text "189.4627"))
+
+([data_17] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_170] of  data
+
+	(_key "label")
+	(Text "16"))
+
+([data_171] of  data
+
+	(_key "label")
+	(Text "4.2 Interfaces to External Systems or Devices"))
+
+([data_172] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_173] of  data
+
+	(_key "label")
+	(Text "fontsize"))
+
+([data_174] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_175] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_176] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_177] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_178] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_179] of  data
+
+	(_key "url")
+	(Text "./Templates/UserInterfaces.txt"))
+
+([data_18] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_180] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_181] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_182] of  data
+
+	(_key "y")
+	(Text "415.52313"))
+
+([data_183] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_184] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_185] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_186] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_187] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_188] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_189] of  data
+
+	(_key "x")
+	(Text "113.43933"))
+
+([data_19] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_190] of  data
+
+	(_key "y")
+	(Text "180.49701"))
+
+([data_191] of  data
+
+	(_key "url")
+	(Text "./Templates/InterfacesToExternalSystemsOrDevices.txt"))
+
+([data_192] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_193] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_194] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_195] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_196] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_197] of  data
+
+	(_key "x")
+	(Text "-82.41"))
+
+([data_198] of  data
+
+	(_key "x")
+	(Text "-404.84653"))
+
+([data_199] of  data
+
+	(_key "label")
+	(Text "labelloc"))
+
+([data_2] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_20] of  data
+
+	(_key "x")
+	(Text "268.61395"))
+
+([data_200] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_201] of  data
+
+	(_key "x")
+	(Text "-12.077423"))
+
+([data_202] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_203] of  data
+
+	(_key "label")
+	(Text "3. System Qualities"))
+
+([data_204] of  data
+
+	(_key "x")
+	(Text "459.92664"))
+
+([data_205] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_206] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_207] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_208] of  data
+
+	(_key "y")
+	(Text "156.44043"))
+
+([data_209] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_21] of  data
+
+	(_key "y")
+	(Text "-310.45905"))
+
+([data_210] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_211] of  data
+
+	(_key "label")
+	(Text "t"))
+
+([data_212] of  data
+
+	(_key "x")
+	(Text "-463.08414"))
+
+([data_213] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_214] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_215] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_216] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_217] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_218] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_219] of  data
+
+	(_key "x")
+	(Text "15.789612"))
+
+([data_22] of  data
+
+	(_key "y")
+	(Text "-88.070625"))
+
+([data_220] of  data
+
+	(_key "y")
+	(Text "-90.57688"))
+
+([data_221] of  data
+
+	(_key "x")
+	(Text "71.882996"))
+
+([data_222] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_223] of  data
+
+	(_key "label")
+	(Text "fontname"))
+
+([data_224] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_225] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_226] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_227] of  data
+
+	(_key "url")
+	(Text "./Templates/BusinessRules.txt"))
+
+([data_228] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_229] of  data
+
+	(_key "y")
+	(Text "-421.64728"))
+
+([data_23] of  data
+
+	(_key "label")
+	(Text "4. System Interfaces"))
+
+([data_230] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_231] of  data
+
+	(_key "label")
+	(Text "1. Introduction"))
+
+([data_232] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_233] of  data
+
+	(_key "y")
+	(Text "322.2055"))
+
+([data_234] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_235] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_236] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_24] of  data
+
+	(_key "x")
+	(Text "-229.61096"))
+
+([data_25] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_26] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_27] of  data
+
+	(_key "y")
+	(Text "-95.88828"))
+
+([data_28] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_29] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_3] of  data
+
+	(_key "y")
+	(Text "329.40253"))
+
+([data_30] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_31] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_32] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_33] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_34] of  data
+
+	(_key "weight")
+	(Text "1.0"))
+
+([data_35] of  data
+
+	(_key "y")
+	(Text "172.05042"))
+
+([data_36] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_37] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_38] of  data
+
+	(_key "label")
+	(Text "5 Business Rules"))
+
+([data_39] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_4] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_40] of  data
+
+	(_key "url")
+	(Text "./Templates/SystemDocumentation.txt"))
+
+([data_41] of  data
+
+	(_key "y")
+	(Text "210.75409"))
+
+([data_42] of  data
+
+	(_key "x")
+	(Text "-181.49557"))
+
+([data_43] of  data
+
+	(_key "x")
+	(Text "233.1419"))
+
+([data_44] of  data
+
+	(_key "url")
+	(Text "./Templates/SystemQualities.txt"))
+
+([data_45] of  data
+
+	(_key "x")
+	(Text "-461.64432"))
+
+([data_46] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_47] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_48] of  data
+
+	(_key "x")
+	(Text "9.935181"))
+
+([data_49] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_5] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_50] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_51] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_52] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_53] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_54] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_55] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_56] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_57] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_58] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_59] of  data
+
+	(_key "url")
+	(Text "./Templates/SystemConstraints.txt"))
+
+([data_6] of  data
+
+	(_key "fillcolor")
+	(Text "royalblue3"))
+
+([data_60] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_61] of  data
+
+	(_key "x")
+	(Text "-101.627075"))
+
+([data_62] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_63] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_64] of  data
+
+	(_key "label")
+	(Text "7. System Compliance"))
+
+([data_65] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_66] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_67] of  data
+
+	(_key "margin")
+	(Text "0.11,0.11"))
+
+([data_68] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_69] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_7] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([data_70] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_71] of  data
+
+	(_key "shape")
+	(Text "component"))
+
+([data_72] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_73] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_74] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_75] of  data
+
+	(_key "fillcolor")
+	(Text "white"))
+
+([data_76] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_77] of  data
+
+	(_key "label")
+	(Text "8. System Documentation"))
+
+([data_78] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_79] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_8] of  data
+
+	(_key "y")
+	(Text "390.4779"))
+
+([data_80] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_81] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_82] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_83] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_84] of  data
+
+	(_key "shape")
+	(Text "ellipse"))
+
+([data_85] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_86] of  data
+
+	(_key "b")
+	(Text "0"))
+
+([data_87] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_88] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_89] of  data
+
+	(_key "size")
+	(Text "10.0"))
+
+([data_9] of  data
+
+	(_key "r")
+	(Text "0"))
+
+([data_90] of  data
+
+	(_key "label")
+	(Text "6. System Constraints"))
+
+([data_91] of  data
+
+	(_key "y")
+	(Text "-383.2893"))
+
+([data_92] of  data
+
+	(_key "fontsize")
+	(Text "12"))
+
+([data_93] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_94] of  data
+
+	(_key "x")
+	(Text "17.310425"))
+
+([data_95] of  data
+
+	(_key "x")
+	(Text "-285.3386"))
+
+([data_96] of  data
+
+	(_key "fontcolor")
+	(Text "blue"))
+
+([data_97] of  data
+
+	(_key "y")
+	(Text "259.43195"))
+
+([data_98] of  data
+
+	(_key "g")
+	(Text "0"))
+
+([data_99] of  data
+
+	(_key "fontname")
+	(Text "Arial"))
+
+([edge_0] of  edge
+
+	(_id "168")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 8 System Documentation | Templates/SupportingRequirements/SystemDocumentation.txt")
+	(_target "Artifact End 1 2 1 1 1 11 0 Supporting Requirements |")
+	(dataSlot [data_234]))
+
+([edge_1] of  edge
+
+	(_id "167")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 7 System Compliance | Templates/SupportingRequirements/SystemCompliance.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 8 System Documentation | Templates/SupportingRequirements/SystemDocumentation.txt")
+	(dataSlot [data_34]))
+
+([edge_10] of  edge
+
+	(_id "160")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 2 System-Wide Functional Requirements | Templates/SupportingRequirements/System-WideFunctionalRequirements.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 3 System Qualities | Templates/SupportingRequirements/SystemQualities.txt")
+	(dataSlot [data_161]))
+
+([edge_2] of  edge
+
+	(_id "162")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 4 System Interfaces | Templates/SupportingRequirements/SystemInterfaces.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 4.1 User Interfaces | Templates/SupportingRequirements/UserInterfaces.txt")
+	(dataSlot [data_180]))
+
+([edge_3] of  edge
+
+	(_id "165")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 5 Business Rules | Templates/SupportingRequirements/BusinessRules.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 6 System Constraints | Templates/SupportingRequirements/SystemConstraints.txt")
+	(dataSlot [data_202]))
+
+([edge_4] of  edge
+
+	(_id "164")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 4.2 Interfaces to External Systems or Devices | Templates/SupportingRequirements/InterfacesToExternalSystemsOrDevices.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 5 Business Rules | Templates/SupportingRequirements/BusinessRules.txt")
+	(dataSlot [data_25]))
+
+([edge_5] of  edge
+
+	(_id "166")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 6 System Constraints | Templates/SupportingRequirements/SystemConstraints.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 7 System Compliance | Templates/SupportingRequirements/SystemCompliance.txt")
+	(dataSlot [data_117]))
+
+([edge_6] of  edge
+
+	(_id "158")
+	(_source "Artifact Start 1 2 1 1 1 11 0 Supporting Requirements |")
+	(_target "Artifact Section 1 2 1 1 1 11 1 Introduction |")
+	(dataSlot [data_193]))
+
+([edge_7] of  edge
+
+	(_id "161")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 3 System Qualities | Templates/SupportingRequirements/SystemQualities.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 4 System Interfaces | Templates/SupportingRequirements/SystemInterfaces.txt")
+	(dataSlot [data_101]))
+
+([edge_8] of  edge
+
+	(_id "159")
+	(_source "Artifact Section 1 2 1 1 1 11 1 Introduction |")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 2 System-Wide Functional Requirements | Templates/SupportingRequirements/System-WideFunctionalRequirements.txt")
+	(dataSlot [data_108]))
+
+([edge_9] of  edge
+
+	(_id "163")
+	(_source "Artifact SectionWT 1 2 1 1 1 11 4.1 User Interfaces | Templates/SupportingRequirements/UserInterfaces.txt")
+	(_target "Artifact SectionWT 1 2 1 1 1 11 4.2 Interfaces to External Systems or Devices | Templates/SupportingRequirements/InterfacesToExternalSystemsOrDevices.txt")
+	(dataSlot [data_164]))
+
+([graph_0] of  graph
+
+	(_edgedefault "directed")
+	(edgeSlot [edge_6])
+	(nodeSlot [node_4]))
+
+([key_0] of  key
+
+	(_attr.name "url")
+	(_attr.type "string")
+	(_for "node")
+	(_id "url"))
+
+([key_1] of  key
+
+	(_attr.name "size")
+	(_attr.type "float")
+	(_for "node")
+	(_id "size"))
+
+([key_10] of  key
+
+	(_attr.name "Edge Label")
+	(_attr.type "string")
+	(_for "edge")
+	(_id "edgelabel"))
+
+([key_11] of  key
+
+	(_attr.name "shape")
+	(_attr.type "string")
+	(_for "node")
+	(_id "shape"))
+
+([key_12] of  key
+
+	(_attr.name "fontcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontcolor"))
+
+([key_13] of  key
+
+	(_attr.name "fillcolor")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fillcolor"))
+
+([key_14] of  key
+
+	(_attr.name "x")
+	(_attr.type "float")
+	(_for "node")
+	(_id "x"))
+
+([key_15] of  key
+
+	(_attr.name "b")
+	(_attr.type "int")
+	(_for "node")
+	(_id "b"))
+
+([key_2] of  key
+
+	(_attr.name "fontname")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontname"))
+
+([key_3] of  key
+
+	(_attr.name "label")
+	(_attr.type "string")
+	(_for "node")
+	(_id "label"))
+
+([key_4] of  key
+
+	(_attr.name "y")
+	(_attr.type "float")
+	(_for "node")
+	(_id "y"))
+
+([key_5] of  key
+
+	(_attr.name "fontsize")
+	(_attr.type "string")
+	(_for "node")
+	(_id "fontsize"))
+
+([key_6] of  key
+
+	(_attr.name "r")
+	(_attr.type "int")
+	(_for "node")
+	(_id "r"))
+
+([key_7] of  key
+
+	(_attr.name "g")
+	(_attr.type "int")
+	(_for "node")
+	(_id "g"))
+
+([key_8] of  key
+
+	(_attr.name "margin")
+	(_attr.type "string")
+	(_for "node")
+	(_id "margin"))
+
+([key_9] of  key
+
+	(_attr.name "weight")
+	(_attr.type "double")
+	(_for "edge")
+	(_id "weight"))
+
+([node_0] of  node
+
+	(_id "bgcolor")
+	(dataSlot [data_0]))
+
+([node_1] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 7 System Compliance | Templates/SupportingRequirements/SystemCompliance.txt")
+	(dataSlot [data_64]))
+
+([node_10] of  node
+
+	(_id "Artifact End 1 2 1 1 1 11 0 Supporting Requirements |")
+	(dataSlot [data_105]))
+
+([node_11] of  node
+
+	(_id "Arial")
+	(dataSlot [data_135]))
+
+([node_12] of  node
+
+	(_id "lemonchiffon")
+	(dataSlot [data_15]))
+
+([node_13] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 4 System Interfaces | Templates/SupportingRequirements/SystemInterfaces.txt")
+	(dataSlot [data_23]))
+
+([node_14] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 6 System Constraints | Templates/SupportingRequirements/SystemConstraints.txt")
+	(dataSlot [data_90]))
+
+([node_15] of  node
+
+	(_id "fontname")
+	(dataSlot [data_223]))
+
+([node_16] of  node
+
+	(_id "t")
+	(dataSlot [data_211]))
+
+([node_17] of  node
+
+	(_id "labelloc")
+	(dataSlot [data_199]))
+
+([node_18] of  node
+
+	(_id "16")
+	(dataSlot [data_170]))
+
+([node_19] of  node
+
+	(_id "label")
+	(dataSlot [data_163]))
+
+([node_2] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 8 System Documentation | Templates/SupportingRequirements/SystemDocumentation.txt")
+	(dataSlot [data_77]))
+
+([node_20] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 2 System-Wide Functional Requirements | Templates/SupportingRequirements/System-WideFunctionalRequirements.txt")
+	(dataSlot [data_124]))
+
+([node_21] of  node
+
+	(_id "Artifact Start 1 2 1 1 1 11 0 Supporting Requirements |")
+	(dataSlot [data_157]))
+
+([node_3] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 5 Business Rules | Templates/SupportingRequirements/BusinessRules.txt")
+	(dataSlot [data_38]))
+
+([node_4] of  node
+
+	(_id "fontsize")
+	(dataSlot [data_173]))
+
+([node_5] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 4.2 Interfaces to External Systems or Devices | Templates/SupportingRequirements/InterfacesToExternalSystemsOrDevices.txt")
+	(dataSlot [data_171]))
+
+([node_6] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 4.1 User Interfaces | Templates/SupportingRequirements/UserInterfaces.txt")
+	(dataSlot [data_146]))
+
+([node_7] of  node
+
+	(_id "Supporting Requirements")
+	(dataSlot [data_119]))
+
+([node_8] of  node
+
+	(_id "Artifact SectionWT 1 2 1 1 1 11 3 System Qualities | Templates/SupportingRequirements/SystemQualities.txt")
+	(dataSlot [data_203]))
+
+([node_9] of  node
+
+	(_id "Artifact Section 1 2 1 1 1 11 1 Introduction |")
+	(dataSlot [data_231]))

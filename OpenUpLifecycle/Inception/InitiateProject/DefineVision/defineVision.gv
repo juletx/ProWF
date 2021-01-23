@@ -1,0 +1,22 @@
+digraph defineVision {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Define Vision",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Task Start 1 1 1 1 1 0 0 Define Vision |" -> "Task Artifact 1 1 1 1 1 14 0 Vision |";
+	"Task Artifact 1 1 1 1 1 14 0 Vision |" -> "Task Artifact 1 1 1 1 1 10 0 Glossary |";
+	"Task Artifact 1 1 1 1 1 10 0 Glossary |" -> "Task Artifact 1 1 1 1 1 9 0 Work Items List |";
+	"Task Artifact 1 1 1 1 1 9 0 Work Items List |" -> "Task End 1 1 1 1 1 0 0 Define Vision |";
+	    
+	"Task Start 1 1 1 1 1 0 0 Define Vision |" [shape=ellipse,label="Start Define Vision",fillcolor =royalblue3,style=filled];
+	"Task End 1 1 1 1 1 0 0 Define Vision |" [shape=ellipse,label="End Define Vision",fillcolor =royalblue3,style=filled];
+	
+	"Task Artifact 1 1 1 1 1 14 0 Vision |" [shape=note,label="Vision",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/Vision/vision.html"];
+	"Task Artifact 1 1 1 1 1 10 0 Glossary |" [shape=note,label="Glossary",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/Glossary/glossary.html"];
+    "Task Artifact 1 1 1 1 1 9 0 Work Items List |" [shape=note,label="Work Items List",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/WorkItemsList/workItemsList.html"];
+ 	
+}

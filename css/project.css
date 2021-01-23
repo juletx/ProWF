@@ -1,0 +1,242 @@
+body
+{
+	background-image: none;
+	background-color: white;
+}
+#b
+{
+	background-color:#EEEEEE;
+}
+h1{font-family: Arial, sans-serif;}        
+h1.banner
+{
+	height:120px;
+	background-image:url(../images/underlinecopia.jpg);
+	background-repeat: repeat; 
+	background-attachment:scroll; 
+	color:#000000;
+	text-align: center;
+	font-weight:bolder;
+	font-size:25px;
+	background-position: 0% 
+}
+h1.banner1 {
+	background-attachment:scroll;
+	background-image:url(../images/underlinecopia.jpg);
+	background-position:0% 50%;
+	background-repeat:repeat;
+	color:#000000;
+	font-size:30px;
+	font-weight:bolder;
+	height:70px;
+	margin-bottom:40px;
+	margin-top:40px;
+	text-align:center;
+}
+.container
+{
+	height:433px;
+	overflow:auto;
+}
+h2, h3{font-family: Arial, sans-serif;}
+h4, h5
+{
+	font-family: Arial, sans-serif;        
+	margin-left: 0px
+}      
+h6
+{
+	font-family: Arial, sans-serif;        
+	margin-left: 0px;
+	font-weight:normal;
+	padding-bottom:0px;
+	padding-top:0px;
+ }
+p{margin-left: 0px}
+p.exampleheading
+{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 10pt;        
+	margin-left: 15px
+}
+p.example{margin-left: 70px;}
+p.picturetext
+{
+	text-align: center;	
+	font-family: sans-serif;	
+	font-size: 80%;        
+	margin-left: 70px;        
+	margin-right: 50px
+}
+p.definition
+{
+	background: #ffffcc;
+	border: thin double black
+}
+p.tableheading
+{
+	font-weight: bold;
+    margin-left: 0
+}
+p.tabletext{margin-left: 0}
+p.comment{color: #000000}
+ol{margin-left: +45px}
+ol ol{margin-left: +23px}
+ol ol ol{margin-left: +23px}
+ol.alpha{list-style-type: lower-alpha}
+ul li
+{
+	list-style-image: url(../images/bullet1.gif);
+	text-indent: +0px	text-align: justify
+}
+ul ul li
+{
+	list-style-image: url("../images/bullet2.gif");
+	text-indent: +0px	text-align: justify
+}
+ul ul ul li
+{
+	list-style-image: url("../images/bullet3.gif");        
+	text-indent: +0px	text-align: justify
+}
+ul.plus{list-style-image: }
+ul.minus{list-style-image: }
+ul.ck{list-style-image: url("../images/checkbox.gif");}
+table{}
+td{vertical-align: top}
+td ul{margin-left: +0px}
+p.paramname{text-align: left}
+p.paramexample{text-align: left;   color: red}
+p.paramdescription{text-align: left}
+font.paramexample{color: red}
+font.imageexample{font-size: smaller}
+li, a
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+a{
+	color:#3082A8;
+}
+a:visited{
+	color:#551A8B;
+}
+.sectionHeading
+{
+	background-color:#98B1C4;
+	color:#FFFFFF;
+	cursor: hand;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	text-align:justify;
+	font-weight: bold;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	padding-top: 2px;
+	text-decoration: none;
+}
+.sectionContent
+{
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	text-align: right;
+	font-family:Arial, sans-serif;
+}
+.sectionTable
+{
+	border-bottom: #ccc solid 0px;
+	border-left: #ccc solid 1px;
+	border-right: #ccc solid 0px;
+	border-top: #ccc solid 1px;
+	border-top-color:#ccc;
+	width: 100%;
+}
+.sectionTableHeading
+{
+	background: #D8D8D8;
+	border-bottom: #ccc solid 1px;
+	border-left: #ccc solid 0px;
+	border-right: #ccc solid 1px;
+	border-top: #ccc solid 0px;
+	color:#333333;
+	height: 20;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	text-align: left;
+	width: 20%;
+	font-size:13.0px;
+}
+.sectionTableCell
+{
+	border-bottom: #ccc solid 1px;
+	border-left: #ccc solid 0px;
+	border-right: #ccc solid 1px;
+	border-top: #ccc solid 0px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	font-size:13.0px;
+}
+.font5
+{
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	text-align:justify;
+}	
+.nagusia
+{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.iterazioa
+{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.iterazioa td
+{
+	font-size:13.0px;
+}
+.iterazioa th
+{
+	background-color:#666666; 
+	color:#FFFFFF;
+}
+.presupuesto
+{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.presupuesto td
+{
+	font-size:15.0px;
+}
+.presupuesto th
+{
+	background-color:#666666; 
+	color:#FFFFFF;
+}	
+.euro{text-align:right;}
+.listapresupuesto li
+{
+	font-size:15px;
+	margin-top:5px;
+}
+#logo{
+	margin-top:40px;
+}

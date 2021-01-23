@@ -1,0 +1,12 @@
+Name     |     Description     |     Responsibilities 
+
+- Name:[Name the stakeholder type.]	
+
+- Description: [Briefly describe the stakeholder.]	
+
+- Responsibilities: [Summarize the stakeholder’s key responsibilities with regard to the system being developed; that is, their interest as a stakeholder. For example, this stakeholder:
+ensures that the system will be maintainable
+ensures that there will be a market demand for the product’s features
+monitors the project’s progress
+approves funding
+and so forth]

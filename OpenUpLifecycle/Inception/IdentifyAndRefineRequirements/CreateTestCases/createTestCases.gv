@@ -1,0 +1,18 @@
+digraph createTestCases	 {
+  graph [
+    fontsize = 16,
+    fontname = Arial,
+    label = "Create Test Cases",
+    labelloc = t,
+    bgcolor = "lemonchiffon"
+  ];
+  
+    "Task Start 1 1 3 3 7 0 0 Create Test Cases |" -> "Task Artifact 1 1 3 3 7 15 0 Test Case |";
+	"Task Artifact 1 1 3 3 7 15 0 Test Case |" -> "Task End 1 1 3 3 7 0 0 Create Test Cases |";
+	
+	"Task Start 1 1 3 3 7 0 0 Create Test Cases |" [shape=ellipse,label="Start Create Test Cases",fillcolor =royalblue3,style=filled];
+	"Task End 1 1 3 3 7 0 0 Create Test Cases |" [shape=ellipse,label="End Create Test Cases",fillcolor =royalblue3,style=filled];
+
+	"Task Artifact 1 1 3 3 7 15 0 Test Case |" [shape=note,label="Test Case",fillcolor=white,style=filled,fontname = Arial,fontsize = 12,URL = "./Artifacts/TestCase/testCase.html"];
+	
+}

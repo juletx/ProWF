@@ -1,0 +1,3 @@
+[Avoid design. Keep feature descriptions at a general level. Focus on capabilities needed and why (not how)	 they should be implemented. Capture the stakeholder priority and planned release for each feature.]
+Need     |     Priority     |     Features     |     Planned Release
+			
