@@ -4,7 +4,7 @@ var TREE_ITEMS =
 	['ProWF Proiektua', '../main/home_page.html',
 			['Portada', '../main/home_page.html'],
 			['Laburpen posterra', '../main/Poster_GrAL.png'],
-			['Aurkezpena', '../Proiektua/RojoJulen_GrAL.pptx'],
+			['Aurkezpena', '../Proiektua/RojoJulen_GrAL.pdf'],
 			['MEMORIA','../Proiektua/Memoria/Memoria.pdf'],           
 			['ERANSKINAK',null,
 				['Memoriaren Eranskinak', null,
